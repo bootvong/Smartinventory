@@ -5,7 +5,9 @@ Public Class tbbrand
     Dim da As New SqlDataAdapter
     Dim ds As New DataSet
     Dim cm As New SqlCommand
-
+    Public Function testshowboot()
+        Return True
+    End Function
     Public Function save(cate_id As Integer, name As String)
         cn.connect()
         Try
