@@ -6,8 +6,7 @@ Public Class tbbrand
     Dim ds As New DataSet
     Dim cm As New SqlCommand
     Public Function testshowboot()
-        MessageBox.Show("Hi Boot How are you")
-        MessageBox.Show("Hi Say How are you")
+
         Return True
     End Function
     Public Function showsay()
