@@ -1,0 +1,1734 @@
+\\10.0.0.246\Project ORDER2\SmarkInventory\Smartinventory\Smartinventory\bin\Debug\Smartinventory.exe.config
+\\10.0.0.246\Project ORDER2\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.exe
+\\10.0.0.246\Project ORDER2\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.xml
+\\10.0.0.246\Project ORDER2\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.pdb
+\\10.0.0.246\Project ORDER2\SmarkInventory\Smartinventory\Smartinventory\bin\Debug\Smartinventory.exe
+\\10.0.0.246\Project ORDER2\SmarkInventory\Smartinventory\Smartinventory\bin\Debug\Smartinventory.pdb
+\\10.0.0.246\Project ORDER2\SmarkInventory\Smartinventory\Smartinventory\bin\Debug\Smartinventory.xml
+\\10.0.0.246\Project ORDER2\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.vbprojResolveAssemblyReference.cache
+\\10.0.0.246\Project ORDER2\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcustomer.resources
+\\10.0.0.246\Project ORDER2\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.Form1.resources
+\\10.0.0.246\Project ORDER2\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmlogin.resources
+\\10.0.0.246\Project ORDER2\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmmain.resources
+\\10.0.0.246\Project ORDER2\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmorder.resources
+\\10.0.0.246\Project ORDER2\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmproduct1.resources
+\\10.0.0.246\Project ORDER2\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowproduct.resources
+\\10.0.0.246\Project ORDER2\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsubcategory.resources
+\\10.0.0.246\Project ORDER2\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbrand.resources
+\\10.0.0.246\Project ORDER2\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcategory.resources
+\\10.0.0.246\Project ORDER2\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcolor.resources
+\\10.0.0.246\Project ORDER2\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmdiscount.resources
+\\10.0.0.246\Project ORDER2\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmdistrict.resources
+\\10.0.0.246\Project ORDER2\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmexchange.resources
+\\10.0.0.246\Project ORDER2\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmprovience.resources
+\\10.0.0.246\Project ORDER2\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowunit.resources
+\\10.0.0.246\Project ORDER2\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmstock.resources
+\\10.0.0.246\Project ORDER2\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmunit.resources
+\\10.0.0.246\Project ORDER2\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmuser.resources
+\\10.0.0.246\Project ORDER2\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmvillage.resources
+\\10.0.0.246\Project ORDER2\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.Resources.resources
+\\10.0.0.246\Project ORDER2\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.vbproj.GenerateResource.Cache
+Z:\SmarkInventory\Smartinventory\Smartinventory\bin\Debug\Smartinventory.exe.config
+Z:\SmarkInventory\Smartinventory\Smartinventory\bin\Debug\Smartinventory.exe
+Z:\SmarkInventory\Smartinventory\Smartinventory\bin\Debug\Smartinventory.pdb
+Z:\SmarkInventory\Smartinventory\Smartinventory\bin\Debug\Smartinventory.xml
+Z:\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcustomer.resources
+Z:\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowcustomer.resources
+Z:\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.Form1.resources
+Z:\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmlogin.resources
+Z:\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmmain.resources
+Z:\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmorder.resources
+Z:\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmproduct1.resources
+Z:\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowproduct.resources
+Z:\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsubcategory.resources
+Z:\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbrand.resources
+Z:\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcategory.resources
+Z:\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcolor.resources
+Z:\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmdiscount.resources
+Z:\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmdistrict.resources
+Z:\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmexchange.resources
+Z:\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmprovience.resources
+Z:\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowunit.resources
+Z:\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmstock.resources
+Z:\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmunit.resources
+Z:\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmuser.resources
+Z:\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmvillage.resources
+Z:\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.Resources.resources
+Z:\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsale.resources
+Z:\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.vbproj.GenerateResource.Cache
+Z:\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.exe
+Z:\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.xml
+Z:\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.pdb
+D:\PROJECT\Project ORDER\ນໍ້າປະປາແຂວງຫລວງນໍ້າທາ\Smartinventory\Smartinventory\bin\Debug\Smartinventory.exe.config
+D:\PROJECT\Project ORDER\ນໍ້າປະປາແຂວງຫລວງນໍ້າທາ\Smartinventory\Smartinventory\obj\Debug\Smartinventory.exe
+D:\PROJECT\Project ORDER\ນໍ້າປະປາແຂວງຫລວງນໍ້າທາ\Smartinventory\Smartinventory\obj\Debug\Smartinventory.xml
+D:\PROJECT\Project ORDER\ນໍ້າປະປາແຂວງຫລວງນໍ້າທາ\Smartinventory\Smartinventory\obj\Debug\Smartinventory.pdb
+D:\PROJECT\Project ORDER\ນໍ້າປະປາແຂວງຫລວງນໍ້າທາ\Smartinventory\Smartinventory\obj\Debug\Smartinventory.vbprojResolveAssemblyReference.cache
+D:\PROJECT\Project ORDER\ນໍ້າປະປາແຂວງຫລວງນໍ້າທາ\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcustomer.resources
+D:\PROJECT\Project ORDER\ນໍ້າປະປາແຂວງຫລວງນໍ້າທາ\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcustomerdebitlist.resources
+D:\PROJECT\Project ORDER\ນໍ້າປະປາແຂວງຫລວງນໍ້າທາ\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcustomerpay.resources
+D:\PROJECT\Project ORDER\ນໍ້າປະປາແຂວງຫລວງນໍ້າທາ\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsalename.resources
+D:\PROJECT\Project ORDER\ນໍ້າປະປາແຂວງຫລວງນໍ້າທາ\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowcustomer.resources
+D:\PROJECT\Project ORDER\ນໍ້າປະປາແຂວງຫລວງນໍ້າທາ\Smartinventory\Smartinventory\obj\Debug\Smartinventory.Form1.resources
+D:\PROJECT\Project ORDER\ນໍ້າປະປາແຂວງຫລວງນໍ້າທາ\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportstockoutdetail.resources
+D:\PROJECT\Project ORDER\ນໍ້າປະປາແຂວງຫລວງນໍ້າທາ\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportstockout.resources
+D:\PROJECT\Project ORDER\ນໍ້າປະປາແຂວງຫລວງນໍ້າທາ\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportreceivedetail.resources
+D:\PROJECT\Project ORDER\ນໍ້າປະປາແຂວງຫລວງນໍ້າທາ\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportreceive.resources
+D:\PROJECT\Project ORDER\ນໍ້າປະປາແຂວງຫລວງນໍ້າທາ\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbillstockinout.resources
+D:\PROJECT\Project ORDER\ນໍ້າປະປາແຂວງຫລວງນໍ້າທາ\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportorderdetail.resources
+D:\PROJECT\Project ORDER\ນໍ້າປະປາແຂວງຫລວງນໍ້າທາ\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportorderbill.resources
+D:\PROJECT\Project ORDER\ນໍ້າປະປາແຂວງຫລວງນໍ້າທາ\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsaledetail.resources
+D:\PROJECT\Project ORDER\ນໍ້າປະປາແຂວງຫລວງນໍ້າທາ\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbillcash.resources
+D:\PROJECT\Project ORDER\ນໍ້າປະປາແຂວງຫລວງນໍ້າທາ\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbilldevery.resources
+D:\PROJECT\Project ORDER\ນໍ້າປະປາແຂວງຫລວງນໍ້າທາ\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbillorder.resources
+D:\PROJECT\Project ORDER\ນໍ້າປະປາແຂວງຫລວງນໍ້າທາ\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbillquotation.resources
+D:\PROJECT\Project ORDER\ນໍ້າປະປາແຂວງຫລວງນໍ້າທາ\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbillreceive.resources
+D:\PROJECT\Project ORDER\ນໍ້າປະປາແຂວງຫລວງນໍ້າທາ\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbillreturnproduct.resources
+D:\PROJECT\Project ORDER\ນໍ້າປະປາແຂວງຫລວງນໍ້າທາ\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcheckstockoption.resources
+D:\PROJECT\Project ORDER\ນໍ້າປະປາແຂວງຫລວງນໍ້າທາ\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmpaydetail.resources
+D:\PROJECT\Project ORDER\ນໍ້າປະປາແຂວງຫລວງນໍ້າທາ\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportcustomer.resources
+D:\PROJECT\Project ORDER\ນໍ້າປະປາແຂວງຫລວງນໍ້າທາ\Smartinventory\Smartinventory\obj\Debug\Smartinventory.Frmreportproduct.resources
+D:\PROJECT\Project ORDER\ນໍ້າປະປາແຂວງຫລວງນໍ້າທາ\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsaledetail_sumary.resources
+D:\PROJECT\Project ORDER\ນໍ້າປະປາແຂວງຫລວງນໍ້າທາ\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsaledetaillist.resources
+D:\PROJECT\Project ORDER\ນໍ້າປະປາແຂວງຫລວງນໍ້າທາ\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsumaryproductinout.resources
+D:\PROJECT\Project ORDER\ນໍ້າປະປາແຂວງຫລວງນໍ້າທາ\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsumaryproductin_out.resources
+D:\PROJECT\Project ORDER\ນໍ້າປະປາແຂວງຫລວງນໍ້າທາ\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmmain.resources
+D:\PROJECT\Project ORDER\ນໍ້າປະປາແຂວງຫລວງນໍ້າທາ\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmstockout.resources
+D:\PROJECT\Project ORDER\ນໍ້າປະປາແຂວງຫລວງນໍ້າທາ\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmstockoutlist.resources
+D:\PROJECT\Project ORDER\ນໍ້າປະປາແຂວງຫລວງນໍ້າທາ\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreturnproduct.resources
+D:\PROJECT\Project ORDER\ນໍ້າປະປາແຂວງຫລວງນໍ້າທາ\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmorder.resources
+D:\PROJECT\Project ORDER\ນໍ້າປະປາແຂວງຫລວງນໍ້າທາ\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcreateorder.resources
+D:\PROJECT\Project ORDER\ນໍ້າປະປາແຂວງຫລວງນໍ້າທາ\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreceiveproduct.resources
+D:\PROJECT\Project ORDER\ນໍ້າປະປາແຂວງຫລວງນໍ້າທາ\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreturnproductlist.resources
+D:\PROJECT\Project ORDER\ນໍ້າປະປາແຂວງຫລວງນໍ້າທາ\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowdate.resources
+D:\PROJECT\Project ORDER\ນໍ້າປະປາແຂວງຫລວງນໍ້າທາ\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowsubsale.resources
+D:\PROJECT\Project ORDER\ນໍ້າປະປາແຂວງຫລວງນໍ້າທາ\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowproductsale.resources
+D:\PROJECT\Project ORDER\ນໍ້າປະປາແຂວງຫລວງນໍ້າທາ\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmproduct1.resources
+D:\PROJECT\Project ORDER\ນໍ້າປະປາແຂວງຫລວງນໍ້າທາ\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowproduct.resources
+D:\PROJECT\Project ORDER\ນໍ້າປະປາແຂວງຫລວງນໍ້າທາ\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmstockouttype.resources
+D:\PROJECT\Project ORDER\ນໍ້າປະປາແຂວງຫລວງນໍ້າທາ\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbusiness.resources
+D:\PROJECT\Project ORDER\ນໍ້າປະປາແຂວງຫລວງນໍ້າທາ\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmconfig.resources
+D:\PROJECT\Project ORDER\ນໍ້າປະປາແຂວງຫລວງນໍ້າທາ\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmdepartment.resources
+D:\PROJECT\Project ORDER\ນໍ້າປະປາແຂວງຫລວງນໍ້າທາ\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmemployee.resources
+D:\PROJECT\Project ORDER\ນໍ້າປະປາແຂວງຫລວງນໍ້າທາ\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmunit.resources
+D:\PROJECT\Project ORDER\ນໍ້າປະປາແຂວງຫລວງນໍ້າທາ\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmtax.resources
+D:\PROJECT\Project ORDER\ນໍ້າປະປາແຂວງຫລວງນໍ້າທາ\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcustype.resources
+D:\PROJECT\Project ORDER\ນໍ້າປະປາແຂວງຫລວງນໍ້າທາ\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsubcategory.resources
+D:\PROJECT\Project ORDER\ນໍ້າປະປາແຂວງຫລວງນໍ້າທາ\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbrand.resources
+D:\PROJECT\Project ORDER\ນໍ້າປະປາແຂວງຫລວງນໍ້າທາ\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcategory.resources
+D:\PROJECT\Project ORDER\ນໍ້າປະປາແຂວງຫລວງນໍ້າທາ\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcolor.resources
+D:\PROJECT\Project ORDER\ນໍ້າປະປາແຂວງຫລວງນໍ້າທາ\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmdiscount.resources
+D:\PROJECT\Project ORDER\ນໍ້າປະປາແຂວງຫລວງນໍ້າທາ\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmdistrict.resources
+D:\PROJECT\Project ORDER\ນໍ້າປະປາແຂວງຫລວງນໍ້າທາ\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmexchange.resources
+D:\PROJECT\Project ORDER\ນໍ້າປະປາແຂວງຫລວງນໍ້າທາ\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmprovience.resources
+D:\PROJECT\Project ORDER\ນໍ້າປະປາແຂວງຫລວງນໍ້າທາ\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowunit.resources
+D:\PROJECT\Project ORDER\ນໍ້າປະປາແຂວງຫລວງນໍ້າທາ\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmstock.resources
+D:\PROJECT\Project ORDER\ນໍ້າປະປາແຂວງຫລວງນໍ້າທາ\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmuser.resources
+D:\PROJECT\Project ORDER\ນໍ້າປະປາແຂວງຫລວງນໍ້າທາ\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmvillage.resources
+D:\PROJECT\Project ORDER\ນໍ້າປະປາແຂວງຫລວງນໍ້າທາ\Smartinventory\Smartinventory\obj\Debug\Smartinventory.Resources.resources
+D:\PROJECT\Project ORDER\ນໍ້າປະປາແຂວງຫລວງນໍ້າທາ\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmoptionsale.resources
+D:\PROJECT\Project ORDER\ນໍ້າປະປາແຂວງຫລວງນໍ້າທາ\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmproductinfo.resources
+D:\PROJECT\Project ORDER\ນໍ້າປະປາແຂວງຫລວງນໍ້າທາ\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsale.resources
+D:\PROJECT\Project ORDER\ນໍ້າປະປາແຂວງຫລວງນໍ້າທາ\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsalelist.resources
+D:\PROJECT\Project ORDER\ນໍ້າປະປາແຂວງຫລວງນໍ້າທາ\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsalesubitem.resources
+D:\PROJECT\Project ORDER\ນໍ້າປະປາແຂວງຫລວງນໍ້າທາ\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsumarysale.resources
+D:\PROJECT\Project ORDER\ນໍ້າປະປາແຂວງຫລວງນໍ້າທາ\Smartinventory\Smartinventory\obj\Debug\Smartinventory.vbproj.GenerateResource.Cache
+D:\PROJECT\Project ORDER\ນໍ້າປະປາແຂວງຫລວງນໍ້າທາ\Smartinventory\Smartinventory\bin\Debug\Smartinventory.exe
+D:\PROJECT\Project ORDER\ນໍ້າປະປາແຂວງຫລວງນໍ້າທາ\Smartinventory\Smartinventory\bin\Debug\Smartinventory.pdb
+D:\PROJECT\Project ORDER\ນໍ້າປະປາແຂວງຫລວງນໍ້າທາ\Smartinventory\Smartinventory\bin\Debug\Smartinventory.xml
+D:\PROJECT\Project ORDER\ນໍ້າປະປາແຂວງຫລວງນໍ້າທາ\Smartinventory\Smartinventory\bin\Debug\DevComponents.DotNetBar2.dll
+D:\PROJECT\Project ORDER\ນໍ້າປະປາແຂວງຫລວງນໍ້າທາ\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowemployee.resources
+D:\PROJECT\Project ORDER\ນໍ້າປະປາແຂວງຫລວງນໍ້າທາ\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmlogin.resources
+D:\PROJECT\Project ORDER\ນໍ້າປະປາແຂວງຫລວງນໍ້າທາ\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbackup_restore.resources
+D:\PROJECT\Project ORDER\ນໍ້າປະປາແຂວງຫລວງນໍ້າທາ\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbillsalesub.resources
+D:\PROJECT\Project ORDER\ນໍ້າປະປາແຂວງຫລວງນໍ້າທາ\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportproductremindstock.resources
+D:\PROJECT\Project ORDER\ນໍ້າປະປາແຂວງຫລວງນໍ້າທາ\Smartinventory\Smartinventory\obj\Debug\Smartinventory.fromproductremind.resources
+D:\PROJECT\Project ORDER\SmarkInventory\Smartinventory\Smartinventory\bin\Debug\Smartinventory.exe.config
+D:\PROJECT\Project ORDER\SmarkInventory\Smartinventory\Smartinventory\bin\Debug\Smartinventory.exe
+D:\PROJECT\Project ORDER\SmarkInventory\Smartinventory\Smartinventory\bin\Debug\Smartinventory.pdb
+D:\PROJECT\Project ORDER\SmarkInventory\Smartinventory\Smartinventory\bin\Debug\Smartinventory.xml
+D:\PROJECT\Project ORDER\SmarkInventory\Smartinventory\Smartinventory\bin\Debug\DevComponents.DotNetBar2.dll
+D:\PROJECT\Project ORDER\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.vbprojResolveAssemblyReference.cache
+D:\PROJECT\Project ORDER\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmpaysupplier.resources
+D:\PROJECT\Project ORDER\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcustomer.resources
+D:\PROJECT\Project ORDER\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcustomerdebitlist.resources
+D:\PROJECT\Project ORDER\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcustomerpay.resources
+D:\PROJECT\Project ORDER\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsalename.resources
+D:\PROJECT\Project ORDER\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowcustomer.resources
+D:\PROJECT\Project ORDER\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.Form1.resources
+D:\PROJECT\Project ORDER\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmpaorderdebitbilldetail.resources
+D:\PROJECT\Project ORDER\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportincome_outcomedetail.resources
+D:\PROJECT\Project ORDER\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsummarydebitcustomer.resources
+D:\PROJECT\Project ORDER\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportproductremindstock.resources
+D:\PROJECT\Project ORDER\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbillsalesub.resources
+D:\PROJECT\Project ORDER\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportstockoutdetail.resources
+D:\PROJECT\Project ORDER\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportstockout.resources
+D:\PROJECT\Project ORDER\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportreceivedetail.resources
+D:\PROJECT\Project ORDER\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportreceive.resources
+D:\PROJECT\Project ORDER\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbillstockinout.resources
+D:\PROJECT\Project ORDER\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportorderdetail.resources
+D:\PROJECT\Project ORDER\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportorderbill.resources
+D:\PROJECT\Project ORDER\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsaledetail.resources
+D:\PROJECT\Project ORDER\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbillcash.resources
+D:\PROJECT\Project ORDER\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbilldevery.resources
+D:\PROJECT\Project ORDER\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbillorder.resources
+D:\PROJECT\Project ORDER\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbillquotation.resources
+D:\PROJECT\Project ORDER\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbillreceive.resources
+D:\PROJECT\Project ORDER\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbillreturnproduct.resources
+D:\PROJECT\Project ORDER\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcheckstockoption.resources
+D:\PROJECT\Project ORDER\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmpaydetail.resources
+D:\PROJECT\Project ORDER\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportcustomer.resources
+D:\PROJECT\Project ORDER\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.Frmreportproduct.resources
+D:\PROJECT\Project ORDER\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsaledetail_sumary.resources
+D:\PROJECT\Project ORDER\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsaledetaillist.resources
+D:\PROJECT\Project ORDER\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsumaryproductinout.resources
+D:\PROJECT\Project ORDER\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsumaryproductin_out.resources
+D:\PROJECT\Project ORDER\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmlogin.resources
+D:\PROJECT\Project ORDER\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmmain.resources
+D:\PROJECT\Project ORDER\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmdebitcustomerlist.resources
+D:\PROJECT\Project ORDER\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowemployee.resources
+D:\PROJECT\Project ORDER\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmstockout.resources
+D:\PROJECT\Project ORDER\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmstockoutlist.resources
+D:\PROJECT\Project ORDER\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreturnproduct.resources
+D:\PROJECT\Project ORDER\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmorder.resources
+D:\PROJECT\Project ORDER\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcreateorder.resources
+D:\PROJECT\Project ORDER\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreceiveproduct.resources
+D:\PROJECT\Project ORDER\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreturnproductlist.resources
+D:\PROJECT\Project ORDER\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowdate.resources
+D:\PROJECT\Project ORDER\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowsubsale.resources
+D:\PROJECT\Project ORDER\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowproductsale.resources
+D:\PROJECT\Project ORDER\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmproduct1.resources
+D:\PROJECT\Project ORDER\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowproduct.resources
+D:\PROJECT\Project ORDER\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.fromproductremind.resources
+D:\PROJECT\Project ORDER\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmaddaccounttype.resources
+D:\PROJECT\Project ORDER\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbackup_restore.resources
+D:\PROJECT\Project ORDER\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmincome.resources
+D:\PROJECT\Project ORDER\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowaccount.resources
+D:\PROJECT\Project ORDER\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmstockouttype.resources
+D:\PROJECT\Project ORDER\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbusiness.resources
+D:\PROJECT\Project ORDER\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmconfig.resources
+D:\PROJECT\Project ORDER\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmdepartment.resources
+D:\PROJECT\Project ORDER\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmemployee.resources
+D:\PROJECT\Project ORDER\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmunit.resources
+D:\PROJECT\Project ORDER\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmtax.resources
+D:\PROJECT\Project ORDER\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcustype.resources
+D:\PROJECT\Project ORDER\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsubcategory.resources
+D:\PROJECT\Project ORDER\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbrand.resources
+D:\PROJECT\Project ORDER\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcategory.resources
+D:\PROJECT\Project ORDER\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcolor.resources
+D:\PROJECT\Project ORDER\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmdiscount.resources
+D:\PROJECT\Project ORDER\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmdistrict.resources
+D:\PROJECT\Project ORDER\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmexchange.resources
+D:\PROJECT\Project ORDER\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmprovience.resources
+D:\PROJECT\Project ORDER\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowunit.resources
+D:\PROJECT\Project ORDER\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmstock.resources
+D:\PROJECT\Project ORDER\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmuser.resources
+D:\PROJECT\Project ORDER\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmvillage.resources
+D:\PROJECT\Project ORDER\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.Resources.resources
+D:\PROJECT\Project ORDER\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmoptionsale.resources
+D:\PROJECT\Project ORDER\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmproductinfo.resources
+D:\PROJECT\Project ORDER\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsale.resources
+D:\PROJECT\Project ORDER\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsalelist.resources
+D:\PROJECT\Project ORDER\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsalesubitem.resources
+D:\PROJECT\Project ORDER\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsumarysale.resources
+D:\PROJECT\Project ORDER\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.vbproj.GenerateResource.Cache
+D:\PROJECT\Project ORDER\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.exe
+D:\PROJECT\Project ORDER\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.xml
+D:\PROJECT\Project ORDER\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.pdb
+D:\PROJECT\Project ORDER\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsumaryproductinout_totalvalue.resources
+\\Mac\Home\Desktop\SAY-VOTE\SmarkInventory\Smartinventory\Smartinventory\bin\Debug\Smartinventory.exe.config
+\\Mac\Home\Desktop\SAY-VOTE\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.exe
+\\Mac\Home\Desktop\SAY-VOTE\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.xml
+\\Mac\Home\Desktop\SAY-VOTE\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.pdb
+\\Mac\Home\Desktop\SAY-VOTE\SmarkInventory\Smartinventory\Smartinventory\bin\Debug\Smartinventory.exe
+\\Mac\Home\Desktop\SAY-VOTE\SmarkInventory\Smartinventory\Smartinventory\bin\Debug\Smartinventory.pdb
+\\Mac\Home\Desktop\SAY-VOTE\SmarkInventory\Smartinventory\Smartinventory\bin\Debug\Smartinventory.xml
+\\Mac\Home\Desktop\SAY-VOTE\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.vbprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\SAY-VOTE\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmpaysupplier.resources
+\\Mac\Home\Desktop\SAY-VOTE\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcustomer.resources
+\\Mac\Home\Desktop\SAY-VOTE\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcustomerdebitlist.resources
+\\Mac\Home\Desktop\SAY-VOTE\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcustomerpay.resources
+\\Mac\Home\Desktop\SAY-VOTE\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsalename.resources
+\\Mac\Home\Desktop\SAY-VOTE\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowcustomer.resources
+\\Mac\Home\Desktop\SAY-VOTE\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.Form1.resources
+\\Mac\Home\Desktop\SAY-VOTE\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsumaryproductinout_totalvalue.resources
+\\Mac\Home\Desktop\SAY-VOTE\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmpaorderdebitbilldetail.resources
+\\Mac\Home\Desktop\SAY-VOTE\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportincome_outcomedetail.resources
+\\Mac\Home\Desktop\SAY-VOTE\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsummarydebitcustomer.resources
+\\Mac\Home\Desktop\SAY-VOTE\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcreateorder.resources
+\\Mac\Home\Desktop\SAY-VOTE\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmorder.resources
+\\Mac\Home\Desktop\SAY-VOTE\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreceiveproduct.resources
+\\Mac\Home\Desktop\SAY-VOTE\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportproductremindstock.resources
+\\Mac\Home\Desktop\SAY-VOTE\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbillsalesub.resources
+\\Mac\Home\Desktop\SAY-VOTE\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportstockoutdetail.resources
+\\Mac\Home\Desktop\SAY-VOTE\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportstockout.resources
+\\Mac\Home\Desktop\SAY-VOTE\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportreceivedetail.resources
+\\Mac\Home\Desktop\SAY-VOTE\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportreceive.resources
+\\Mac\Home\Desktop\SAY-VOTE\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbillstockinout.resources
+\\Mac\Home\Desktop\SAY-VOTE\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportorderdetail.resources
+\\Mac\Home\Desktop\SAY-VOTE\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportorderbill.resources
+\\Mac\Home\Desktop\SAY-VOTE\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsaledetail.resources
+\\Mac\Home\Desktop\SAY-VOTE\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbillcash.resources
+\\Mac\Home\Desktop\SAY-VOTE\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbilldevery.resources
+\\Mac\Home\Desktop\SAY-VOTE\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbillorder.resources
+\\Mac\Home\Desktop\SAY-VOTE\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbillquotation.resources
+\\Mac\Home\Desktop\SAY-VOTE\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbillreceive.resources
+\\Mac\Home\Desktop\SAY-VOTE\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbillreturnproduct.resources
+\\Mac\Home\Desktop\SAY-VOTE\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcheckstockoption.resources
+\\Mac\Home\Desktop\SAY-VOTE\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmpaydetail.resources
+\\Mac\Home\Desktop\SAY-VOTE\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportcustomer.resources
+\\Mac\Home\Desktop\SAY-VOTE\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.Frmreportproduct.resources
+\\Mac\Home\Desktop\SAY-VOTE\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsaledetail_sumary.resources
+\\Mac\Home\Desktop\SAY-VOTE\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsaledetaillist.resources
+\\Mac\Home\Desktop\SAY-VOTE\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsumaryproductinout.resources
+\\Mac\Home\Desktop\SAY-VOTE\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsumaryproductin_out.resources
+\\Mac\Home\Desktop\SAY-VOTE\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmlogin.resources
+\\Mac\Home\Desktop\SAY-VOTE\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmmain.resources
+\\Mac\Home\Desktop\SAY-VOTE\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmdebitcustomerlist.resources
+\\Mac\Home\Desktop\SAY-VOTE\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowemployee.resources
+\\Mac\Home\Desktop\SAY-VOTE\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmstockout.resources
+\\Mac\Home\Desktop\SAY-VOTE\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmstockoutlist.resources
+\\Mac\Home\Desktop\SAY-VOTE\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreturnproduct.resources
+\\Mac\Home\Desktop\SAY-VOTE\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreturnproductlist.resources
+\\Mac\Home\Desktop\SAY-VOTE\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowdate.resources
+\\Mac\Home\Desktop\SAY-VOTE\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowsubsale.resources
+\\Mac\Home\Desktop\SAY-VOTE\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowproductsale.resources
+\\Mac\Home\Desktop\SAY-VOTE\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmproduct1.resources
+\\Mac\Home\Desktop\SAY-VOTE\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowproduct.resources
+\\Mac\Home\Desktop\SAY-VOTE\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.fromproductremind.resources
+\\Mac\Home\Desktop\SAY-VOTE\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmaddaccounttype.resources
+\\Mac\Home\Desktop\SAY-VOTE\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbackup_restore.resources
+\\Mac\Home\Desktop\SAY-VOTE\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmincome.resources
+\\Mac\Home\Desktop\SAY-VOTE\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowaccount.resources
+\\Mac\Home\Desktop\SAY-VOTE\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmstockouttype.resources
+\\Mac\Home\Desktop\SAY-VOTE\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbusiness.resources
+\\Mac\Home\Desktop\SAY-VOTE\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmconfig.resources
+\\Mac\Home\Desktop\SAY-VOTE\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmdepartment.resources
+\\Mac\Home\Desktop\SAY-VOTE\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmemployee.resources
+\\Mac\Home\Desktop\SAY-VOTE\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmunit.resources
+\\Mac\Home\Desktop\SAY-VOTE\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmtax.resources
+\\Mac\Home\Desktop\SAY-VOTE\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcustype.resources
+\\Mac\Home\Desktop\SAY-VOTE\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsubcategory.resources
+\\Mac\Home\Desktop\SAY-VOTE\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbrand.resources
+\\Mac\Home\Desktop\SAY-VOTE\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcategory.resources
+\\Mac\Home\Desktop\SAY-VOTE\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcolor.resources
+\\Mac\Home\Desktop\SAY-VOTE\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmdiscount.resources
+\\Mac\Home\Desktop\SAY-VOTE\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmdistrict.resources
+\\Mac\Home\Desktop\SAY-VOTE\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmexchange.resources
+\\Mac\Home\Desktop\SAY-VOTE\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmprovience.resources
+\\Mac\Home\Desktop\SAY-VOTE\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowunit.resources
+\\Mac\Home\Desktop\SAY-VOTE\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmstock.resources
+\\Mac\Home\Desktop\SAY-VOTE\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmuser.resources
+\\Mac\Home\Desktop\SAY-VOTE\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmvillage.resources
+\\Mac\Home\Desktop\SAY-VOTE\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.Resources.resources
+\\Mac\Home\Desktop\SAY-VOTE\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmoptionsale.resources
+\\Mac\Home\Desktop\SAY-VOTE\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmproductinfo.resources
+\\Mac\Home\Desktop\SAY-VOTE\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsale.resources
+\\Mac\Home\Desktop\SAY-VOTE\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsalelist.resources
+\\Mac\Home\Desktop\SAY-VOTE\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsalesubitem.resources
+\\Mac\Home\Desktop\SAY-VOTE\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsumarysale.resources
+\\Mac\Home\Desktop\SAY-VOTE\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.vbproj.GenerateResource.Cache
+V:\Smartinventory\Smartinventory\bin\Debug\Smartinventory.exe.config
+V:\Smartinventory\Smartinventory\obj\Debug\Smartinventory.exe
+V:\Smartinventory\Smartinventory\obj\Debug\Smartinventory.xml
+V:\Smartinventory\Smartinventory\obj\Debug\Smartinventory.pdb
+V:\Smartinventory\Smartinventory\bin\Debug\Smartinventory.exe
+V:\Smartinventory\Smartinventory\bin\Debug\Smartinventory.pdb
+V:\Smartinventory\Smartinventory\bin\Debug\Smartinventory.xml
+V:\Smartinventory\Smartinventory\obj\Debug\Smartinventory.vbprojResolveAssemblyReference.cache
+V:\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmpaysupplier.resources
+V:\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcustomer.resources
+V:\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcustomerdebitlist.resources
+V:\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcustomerpay.resources
+V:\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsalename.resources
+V:\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowcustomer.resources
+V:\Smartinventory\Smartinventory\obj\Debug\Smartinventory.Form1.resources
+V:\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsumaryproductinout_totalvalue.resources
+V:\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmpaorderdebitbilldetail.resources
+V:\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportincome_outcomedetail.resources
+V:\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsummarydebitcustomer.resources
+V:\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcreateorder.resources
+V:\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmorder.resources
+V:\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreceiveproduct.resources
+V:\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportproductremindstock.resources
+V:\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbillsalesub.resources
+V:\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportstockoutdetail.resources
+V:\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportstockout.resources
+V:\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportreceivedetail.resources
+V:\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportreceive.resources
+V:\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbillstockinout.resources
+V:\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportorderdetail.resources
+V:\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportorderbill.resources
+V:\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsaledetail.resources
+V:\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbillcash.resources
+V:\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbilldevery.resources
+V:\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbillorder.resources
+V:\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbillquotation.resources
+V:\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbillreceive.resources
+V:\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbillreturnproduct.resources
+V:\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcheckstockoption.resources
+V:\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmpaydetail.resources
+V:\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportcustomer.resources
+V:\Smartinventory\Smartinventory\obj\Debug\Smartinventory.Frmreportproduct.resources
+V:\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsaledetail_sumary.resources
+V:\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsaledetaillist.resources
+V:\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsumaryproductinout.resources
+V:\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsumaryproductin_out.resources
+V:\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmlogin.resources
+V:\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmmain.resources
+V:\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmdebitcustomerlist.resources
+V:\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowemployee.resources
+V:\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmstockout.resources
+V:\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmstockoutlist.resources
+V:\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreturnproduct.resources
+V:\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreturnproductlist.resources
+V:\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowdate.resources
+V:\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowsubsale.resources
+V:\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowproductsale.resources
+V:\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmproduct1.resources
+V:\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowproduct.resources
+V:\Smartinventory\Smartinventory\obj\Debug\Smartinventory.fromproductremind.resources
+V:\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmaddaccounttype.resources
+V:\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbackup_restore.resources
+V:\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmincome.resources
+V:\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowaccount.resources
+V:\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmstockouttype.resources
+V:\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbusiness.resources
+V:\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmconfig.resources
+V:\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmdepartment.resources
+V:\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmemployee.resources
+V:\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmunit.resources
+V:\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmtax.resources
+V:\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcustype.resources
+V:\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsubcategory.resources
+V:\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbrand.resources
+V:\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcategory.resources
+V:\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcolor.resources
+V:\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmdiscount.resources
+V:\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmdistrict.resources
+V:\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmexchange.resources
+V:\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmprovience.resources
+V:\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowunit.resources
+V:\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmstock.resources
+V:\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmuser.resources
+V:\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmvillage.resources
+V:\Smartinventory\Smartinventory\obj\Debug\Smartinventory.Resources.resources
+V:\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmoptionsale.resources
+V:\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmproductinfo.resources
+V:\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsale.resources
+V:\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsalelist.resources
+V:\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsalesubitem.resources
+V:\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsumarysale.resources
+V:\Smartinventory\Smartinventory\obj\Debug\Smartinventory.vbproj.GenerateResource.Cache
+D:\PROJECT\Project ORDER\Y\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmpaysupplier.resources
+D:\PROJECT\Project ORDER\Y\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcustomer.resources
+D:\PROJECT\Project ORDER\Y\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcustomerdebitlist.resources
+D:\PROJECT\Project ORDER\Y\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcustomerpay.resources
+D:\PROJECT\Project ORDER\Y\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsalename.resources
+D:\PROJECT\Project ORDER\Y\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowcustomer.resources
+D:\PROJECT\Project ORDER\Y\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.Form1.resources
+D:\PROJECT\Project ORDER\Y\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsumaryproductinout_totalvalue.resources
+D:\PROJECT\Project ORDER\Y\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmpaorderdebitbilldetail.resources
+D:\PROJECT\Project ORDER\Y\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportincome_outcomedetail.resources
+D:\PROJECT\Project ORDER\Y\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsummarydebitcustomer.resources
+D:\PROJECT\Project ORDER\Y\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcreateorder.resources
+D:\PROJECT\Project ORDER\Y\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmorder.resources
+D:\PROJECT\Project ORDER\Y\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreceiveproduct.resources
+D:\PROJECT\Project ORDER\Y\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportproductremindstock.resources
+D:\PROJECT\Project ORDER\Y\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbillsalesub.resources
+D:\PROJECT\Project ORDER\Y\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportstockoutdetail.resources
+D:\PROJECT\Project ORDER\Y\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportstockout.resources
+D:\PROJECT\Project ORDER\Y\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportreceivedetail.resources
+D:\PROJECT\Project ORDER\Y\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportreceive.resources
+D:\PROJECT\Project ORDER\Y\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbillstockinout.resources
+D:\PROJECT\Project ORDER\Y\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportorderdetail.resources
+D:\PROJECT\Project ORDER\Y\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportorderbill.resources
+D:\PROJECT\Project ORDER\Y\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsaledetail.resources
+D:\PROJECT\Project ORDER\Y\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbillcash.resources
+D:\PROJECT\Project ORDER\Y\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbilldevery.resources
+D:\PROJECT\Project ORDER\Y\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbillorder.resources
+D:\PROJECT\Project ORDER\Y\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbillquotation.resources
+D:\PROJECT\Project ORDER\Y\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbillreceive.resources
+D:\PROJECT\Project ORDER\Y\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbillreturnproduct.resources
+D:\PROJECT\Project ORDER\Y\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcheckstockoption.resources
+D:\PROJECT\Project ORDER\Y\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmpaydetail.resources
+D:\PROJECT\Project ORDER\Y\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportcustomer.resources
+D:\PROJECT\Project ORDER\Y\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.Frmreportproduct.resources
+D:\PROJECT\Project ORDER\Y\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsaledetail_sumary.resources
+D:\PROJECT\Project ORDER\Y\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsaledetaillist.resources
+D:\PROJECT\Project ORDER\Y\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsumaryproductinout.resources
+D:\PROJECT\Project ORDER\Y\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsumaryproductin_out.resources
+D:\PROJECT\Project ORDER\Y\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmlogin.resources
+D:\PROJECT\Project ORDER\Y\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmmain.resources
+D:\PROJECT\Project ORDER\Y\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmdebitcustomerlist.resources
+D:\PROJECT\Project ORDER\Y\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowemployee.resources
+D:\PROJECT\Project ORDER\Y\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmstockout.resources
+D:\PROJECT\Project ORDER\Y\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmstockoutlist.resources
+D:\PROJECT\Project ORDER\Y\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreturnproduct.resources
+D:\PROJECT\Project ORDER\Y\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreturnproductlist.resources
+D:\PROJECT\Project ORDER\Y\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowdate.resources
+D:\PROJECT\Project ORDER\Y\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowsubsale.resources
+D:\PROJECT\Project ORDER\Y\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowproductsale.resources
+D:\PROJECT\Project ORDER\Y\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmproduct1.resources
+D:\PROJECT\Project ORDER\Y\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowproduct.resources
+D:\PROJECT\Project ORDER\Y\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.fromproductremind.resources
+D:\PROJECT\Project ORDER\Y\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmaddaccounttype.resources
+D:\PROJECT\Project ORDER\Y\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbackup_restore.resources
+D:\PROJECT\Project ORDER\Y\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmincome.resources
+D:\PROJECT\Project ORDER\Y\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowaccount.resources
+D:\PROJECT\Project ORDER\Y\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmstockouttype.resources
+D:\PROJECT\Project ORDER\Y\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbusiness.resources
+D:\PROJECT\Project ORDER\Y\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmconfig.resources
+D:\PROJECT\Project ORDER\Y\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmdepartment.resources
+D:\PROJECT\Project ORDER\Y\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmemployee.resources
+D:\PROJECT\Project ORDER\Y\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmunit.resources
+D:\PROJECT\Project ORDER\Y\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmtax.resources
+D:\PROJECT\Project ORDER\Y\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcustype.resources
+D:\PROJECT\Project ORDER\Y\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsubcategory.resources
+D:\PROJECT\Project ORDER\Y\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbrand.resources
+D:\PROJECT\Project ORDER\Y\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcategory.resources
+D:\PROJECT\Project ORDER\Y\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcolor.resources
+D:\PROJECT\Project ORDER\Y\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmdiscount.resources
+D:\PROJECT\Project ORDER\Y\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmdistrict.resources
+D:\PROJECT\Project ORDER\Y\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmexchange.resources
+D:\PROJECT\Project ORDER\Y\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmprovience.resources
+D:\PROJECT\Project ORDER\Y\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowunit.resources
+D:\PROJECT\Project ORDER\Y\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmstock.resources
+D:\PROJECT\Project ORDER\Y\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmuser.resources
+D:\PROJECT\Project ORDER\Y\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmvillage.resources
+D:\PROJECT\Project ORDER\Y\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.Resources.resources
+D:\PROJECT\Project ORDER\Y\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmoptionsale.resources
+D:\PROJECT\Project ORDER\Y\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmproductinfo.resources
+D:\PROJECT\Project ORDER\Y\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsale.resources
+D:\PROJECT\Project ORDER\Y\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsalelist.resources
+D:\PROJECT\Project ORDER\Y\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsalesubitem.resources
+D:\PROJECT\Project ORDER\Y\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsumarysale.resources
+D:\PROJECT\Project ORDER\Y\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.vbproj.GenerateResource.Cache
+D:\PROJECT\Project ORDER\Y\SmarkInventory\Smartinventory\Smartinventory\bin\Debug\Smartinventory.exe.config
+D:\PROJECT\Project ORDER\Y\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.vbprojResolveAssemblyReference.cache
+D:\PROJECT\Project ORDER\Y\SmarkInventory\Smartinventory\Smartinventory\bin\Debug\Smartinventory.exe
+D:\PROJECT\Project ORDER\Y\SmarkInventory\Smartinventory\Smartinventory\bin\Debug\Smartinventory.pdb
+D:\PROJECT\Project ORDER\Y\SmarkInventory\Smartinventory\Smartinventory\bin\Debug\Smartinventory.xml
+D:\PROJECT\Project ORDER\Y\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.exe
+D:\PROJECT\Project ORDER\Y\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.xml
+D:\PROJECT\Project ORDER\Y\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.pdb
+\\Mac\Home\Desktop\SmarkInventory\Smartinventory\Smartinventory\bin\Debug\Smartinventory.exe.config
+\\Mac\Home\Desktop\SmarkInventory\Smartinventory\Smartinventory\bin\Debug\Smartinventory.exe
+\\Mac\Home\Desktop\SmarkInventory\Smartinventory\Smartinventory\bin\Debug\Smartinventory.pdb
+\\Mac\Home\Desktop\SmarkInventory\Smartinventory\Smartinventory\bin\Debug\Smartinventory.xml
+\\Mac\Home\Desktop\SmarkInventory\Smartinventory\Smartinventory\bin\Debug\DevComponents.DotNetBar2.dll
+\\Mac\Home\Desktop\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmpaysupplier.resources
+\\Mac\Home\Desktop\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcustomer.resources
+\\Mac\Home\Desktop\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcustomerdebitlist.resources
+\\Mac\Home\Desktop\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcustomerpay.resources
+\\Mac\Home\Desktop\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsalename.resources
+\\Mac\Home\Desktop\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowcustomer.resources
+\\Mac\Home\Desktop\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.Form1.resources
+\\Mac\Home\Desktop\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsumaryproductinout_totalvalue.resources
+\\Mac\Home\Desktop\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmpaorderdebitbilldetail.resources
+\\Mac\Home\Desktop\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportincome_outcomedetail.resources
+\\Mac\Home\Desktop\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsummarydebitcustomer.resources
+\\Mac\Home\Desktop\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcreateorder.resources
+\\Mac\Home\Desktop\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmorder.resources
+\\Mac\Home\Desktop\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreceiveproduct.resources
+\\Mac\Home\Desktop\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsetupbackup.resources
+\\Mac\Home\Desktop\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportproductremindstock.resources
+\\Mac\Home\Desktop\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbillsalesub.resources
+\\Mac\Home\Desktop\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportstockoutdetail.resources
+\\Mac\Home\Desktop\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportstockout.resources
+\\Mac\Home\Desktop\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportreceivedetail.resources
+\\Mac\Home\Desktop\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportreceive.resources
+\\Mac\Home\Desktop\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbillstockinout.resources
+\\Mac\Home\Desktop\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportorderdetail.resources
+\\Mac\Home\Desktop\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportorderbill.resources
+\\Mac\Home\Desktop\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsaledetail.resources
+\\Mac\Home\Desktop\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbillcash.resources
+\\Mac\Home\Desktop\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbilldevery.resources
+\\Mac\Home\Desktop\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbillorder.resources
+\\Mac\Home\Desktop\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbillquotation.resources
+\\Mac\Home\Desktop\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbillreceive.resources
+\\Mac\Home\Desktop\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbillreturnproduct.resources
+\\Mac\Home\Desktop\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcheckstockoption.resources
+\\Mac\Home\Desktop\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmpaydetail.resources
+\\Mac\Home\Desktop\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportcustomer.resources
+\\Mac\Home\Desktop\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.Frmreportproduct.resources
+\\Mac\Home\Desktop\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsaledetail_sumary.resources
+\\Mac\Home\Desktop\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsaledetaillist.resources
+\\Mac\Home\Desktop\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsumaryproductinout.resources
+\\Mac\Home\Desktop\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsumaryproductin_out.resources
+\\Mac\Home\Desktop\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmlogin.resources
+\\Mac\Home\Desktop\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmmain.resources
+\\Mac\Home\Desktop\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmdebitcustomerlist.resources
+\\Mac\Home\Desktop\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowemployee.resources
+\\Mac\Home\Desktop\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmstockout.resources
+\\Mac\Home\Desktop\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmstockoutlist.resources
+\\Mac\Home\Desktop\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreturnproduct.resources
+\\Mac\Home\Desktop\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreturnproductlist.resources
+\\Mac\Home\Desktop\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowdate.resources
+\\Mac\Home\Desktop\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowsubsale.resources
+\\Mac\Home\Desktop\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowproductsale.resources
+\\Mac\Home\Desktop\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmproduct1.resources
+\\Mac\Home\Desktop\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowproduct.resources
+\\Mac\Home\Desktop\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.fromproductremind.resources
+\\Mac\Home\Desktop\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmaddaccounttype.resources
+\\Mac\Home\Desktop\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbackup_restore.resources
+\\Mac\Home\Desktop\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmincome.resources
+\\Mac\Home\Desktop\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowaccount.resources
+\\Mac\Home\Desktop\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmstockouttype.resources
+\\Mac\Home\Desktop\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbusiness.resources
+\\Mac\Home\Desktop\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmconfig.resources
+\\Mac\Home\Desktop\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmdepartment.resources
+\\Mac\Home\Desktop\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmemployee.resources
+\\Mac\Home\Desktop\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmunit.resources
+\\Mac\Home\Desktop\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmtax.resources
+\\Mac\Home\Desktop\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcustype.resources
+\\Mac\Home\Desktop\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsubcategory.resources
+\\Mac\Home\Desktop\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbrand.resources
+\\Mac\Home\Desktop\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcategory.resources
+\\Mac\Home\Desktop\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcolor.resources
+\\Mac\Home\Desktop\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmdiscount.resources
+\\Mac\Home\Desktop\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmdistrict.resources
+\\Mac\Home\Desktop\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmexchange.resources
+\\Mac\Home\Desktop\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmprovience.resources
+\\Mac\Home\Desktop\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowunit.resources
+\\Mac\Home\Desktop\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmstock.resources
+\\Mac\Home\Desktop\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmuser.resources
+\\Mac\Home\Desktop\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmvillage.resources
+\\Mac\Home\Desktop\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.Resources.resources
+\\Mac\Home\Desktop\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmoptionsale.resources
+\\Mac\Home\Desktop\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmproductinfo.resources
+\\Mac\Home\Desktop\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsale.resources
+\\Mac\Home\Desktop\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsalelist.resources
+\\Mac\Home\Desktop\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsalesubitem.resources
+\\Mac\Home\Desktop\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsumarysale.resources
+\\Mac\Home\Desktop\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.vbproj.GenerateResource.Cache
+\\Mac\Home\Desktop\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.exe
+\\Mac\Home\Desktop\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.xml
+\\Mac\Home\Desktop\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.pdb
+\\Mac\Home\Desktop\SmarkInventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.vbprojResolveAssemblyReference.cache
+D:\PROJECT\Project ORDER\Smartinventory\Smartinventory\bin\Debug\Smartinventory.exe.config
+D:\PROJECT\Project ORDER\Smartinventory\Smartinventory\bin\Debug\Smartinventory.exe
+D:\PROJECT\Project ORDER\Smartinventory\Smartinventory\bin\Debug\Smartinventory.pdb
+D:\PROJECT\Project ORDER\Smartinventory\Smartinventory\bin\Debug\Smartinventory.xml
+D:\PROJECT\Project ORDER\Smartinventory\Smartinventory\obj\Debug\Smartinventory.vbprojResolveAssemblyReference.cache
+D:\PROJECT\Project ORDER\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmpaysupplier.resources
+D:\PROJECT\Project ORDER\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcustomer.resources
+D:\PROJECT\Project ORDER\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcustomerdebitlist.resources
+D:\PROJECT\Project ORDER\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcustomerpay.resources
+D:\PROJECT\Project ORDER\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsalename.resources
+D:\PROJECT\Project ORDER\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowcustomer.resources
+D:\PROJECT\Project ORDER\Smartinventory\Smartinventory\obj\Debug\Smartinventory.Form1.resources
+D:\PROJECT\Project ORDER\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsumaryproductinout_totalvalue.resources
+D:\PROJECT\Project ORDER\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmpaorderdebitbilldetail.resources
+D:\PROJECT\Project ORDER\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportincome_outcomedetail.resources
+D:\PROJECT\Project ORDER\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsummarydebitcustomer.resources
+D:\PROJECT\Project ORDER\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcreateorder.resources
+D:\PROJECT\Project ORDER\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmorder.resources
+D:\PROJECT\Project ORDER\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreceiveproduct.resources
+D:\PROJECT\Project ORDER\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsetupbackup.resources
+D:\PROJECT\Project ORDER\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsetmoney.resources
+D:\PROJECT\Project ORDER\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportproductremindstock.resources
+D:\PROJECT\Project ORDER\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbillsalesub.resources
+D:\PROJECT\Project ORDER\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportstockoutdetail.resources
+D:\PROJECT\Project ORDER\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportstockout.resources
+D:\PROJECT\Project ORDER\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportreceivedetail.resources
+D:\PROJECT\Project ORDER\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportreceive.resources
+D:\PROJECT\Project ORDER\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbillstockinout.resources
+D:\PROJECT\Project ORDER\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportorderdetail.resources
+D:\PROJECT\Project ORDER\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportorderbill.resources
+D:\PROJECT\Project ORDER\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsaledetail.resources
+D:\PROJECT\Project ORDER\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbillcash.resources
+D:\PROJECT\Project ORDER\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbilldevery.resources
+D:\PROJECT\Project ORDER\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbillorder.resources
+D:\PROJECT\Project ORDER\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbillquotation.resources
+D:\PROJECT\Project ORDER\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbillreceive.resources
+D:\PROJECT\Project ORDER\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbillreturnproduct.resources
+D:\PROJECT\Project ORDER\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcheckstockoption.resources
+D:\PROJECT\Project ORDER\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmpaydetail.resources
+D:\PROJECT\Project ORDER\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportcustomer.resources
+D:\PROJECT\Project ORDER\Smartinventory\Smartinventory\obj\Debug\Smartinventory.Frmreportproduct.resources
+D:\PROJECT\Project ORDER\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsaledetail_sumary.resources
+D:\PROJECT\Project ORDER\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsaledetaillist.resources
+D:\PROJECT\Project ORDER\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsumaryproductinout.resources
+D:\PROJECT\Project ORDER\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsumaryproductin_out.resources
+D:\PROJECT\Project ORDER\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmlogin.resources
+D:\PROJECT\Project ORDER\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmmain.resources
+D:\PROJECT\Project ORDER\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmdebitcustomerlist.resources
+D:\PROJECT\Project ORDER\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowemployee.resources
+D:\PROJECT\Project ORDER\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmstockout.resources
+D:\PROJECT\Project ORDER\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmstockoutlist.resources
+D:\PROJECT\Project ORDER\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreturnproduct.resources
+D:\PROJECT\Project ORDER\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreturnproductlist.resources
+D:\PROJECT\Project ORDER\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowdate.resources
+D:\PROJECT\Project ORDER\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowsubsale.resources
+D:\PROJECT\Project ORDER\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowproductsale.resources
+D:\PROJECT\Project ORDER\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmproduct1.resources
+D:\PROJECT\Project ORDER\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowproduct.resources
+D:\PROJECT\Project ORDER\Smartinventory\Smartinventory\obj\Debug\Smartinventory.fromproductremind.resources
+D:\PROJECT\Project ORDER\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmaddaccounttype.resources
+D:\PROJECT\Project ORDER\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbackup_restore.resources
+D:\PROJECT\Project ORDER\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmincome.resources
+D:\PROJECT\Project ORDER\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowaccount.resources
+D:\PROJECT\Project ORDER\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmstockouttype.resources
+D:\PROJECT\Project ORDER\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbusiness.resources
+D:\PROJECT\Project ORDER\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmconfig.resources
+D:\PROJECT\Project ORDER\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmdepartment.resources
+D:\PROJECT\Project ORDER\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmemployee.resources
+D:\PROJECT\Project ORDER\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmunit.resources
+D:\PROJECT\Project ORDER\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmtax.resources
+D:\PROJECT\Project ORDER\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcustype.resources
+D:\PROJECT\Project ORDER\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsubcategory.resources
+D:\PROJECT\Project ORDER\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbrand.resources
+D:\PROJECT\Project ORDER\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcategory.resources
+D:\PROJECT\Project ORDER\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcolor.resources
+D:\PROJECT\Project ORDER\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmdiscount.resources
+D:\PROJECT\Project ORDER\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmdistrict.resources
+D:\PROJECT\Project ORDER\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmexchange.resources
+D:\PROJECT\Project ORDER\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmprovience.resources
+D:\PROJECT\Project ORDER\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowunit.resources
+D:\PROJECT\Project ORDER\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmstock.resources
+D:\PROJECT\Project ORDER\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmuser.resources
+D:\PROJECT\Project ORDER\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmvillage.resources
+D:\PROJECT\Project ORDER\Smartinventory\Smartinventory\obj\Debug\Smartinventory.Resources.resources
+D:\PROJECT\Project ORDER\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmoptionsale.resources
+D:\PROJECT\Project ORDER\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmproductinfo.resources
+D:\PROJECT\Project ORDER\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsale.resources
+D:\PROJECT\Project ORDER\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsalelist.resources
+D:\PROJECT\Project ORDER\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsalesubitem.resources
+D:\PROJECT\Project ORDER\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsumarysale.resources
+D:\PROJECT\Project ORDER\Smartinventory\Smartinventory\obj\Debug\Smartinventory.vbproj.GenerateResource.Cache
+D:\PROJECT\Project ORDER\Smartinventory\Smartinventory\obj\Debug\Smartinventory.exe
+D:\PROJECT\Project ORDER\Smartinventory\Smartinventory\obj\Debug\Smartinventory.xml
+D:\PROJECT\Project ORDER\Smartinventory\Smartinventory\obj\Debug\Smartinventory.pdb
+D:\PROJECT\Project ORDER\Y\Smartinventory\Smartinventory\bin\Debug\Smartinventory.exe.config
+D:\PROJECT\Project ORDER\Y\Smartinventory\Smartinventory\bin\Debug\Smartinventory.exe
+D:\PROJECT\Project ORDER\Y\Smartinventory\Smartinventory\bin\Debug\Smartinventory.pdb
+D:\PROJECT\Project ORDER\Y\Smartinventory\Smartinventory\bin\Debug\Smartinventory.xml
+D:\PROJECT\Project ORDER\Y\Smartinventory\Smartinventory\obj\Debug\Smartinventory.vbprojResolveAssemblyReference.cache
+D:\PROJECT\Project ORDER\Y\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmpaysupplier.resources
+D:\PROJECT\Project ORDER\Y\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcustomer.resources
+D:\PROJECT\Project ORDER\Y\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcustomerdebitlist.resources
+D:\PROJECT\Project ORDER\Y\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcustomerpay.resources
+D:\PROJECT\Project ORDER\Y\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsalename.resources
+D:\PROJECT\Project ORDER\Y\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowcustomer.resources
+D:\PROJECT\Project ORDER\Y\Smartinventory\Smartinventory\obj\Debug\Smartinventory.Form1.resources
+D:\PROJECT\Project ORDER\Y\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsumaryproductinout_totalvalue.resources
+D:\PROJECT\Project ORDER\Y\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmpaorderdebitbilldetail.resources
+D:\PROJECT\Project ORDER\Y\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportincome_outcomedetail.resources
+D:\PROJECT\Project ORDER\Y\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsummarydebitcustomer.resources
+D:\PROJECT\Project ORDER\Y\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcreateorder.resources
+D:\PROJECT\Project ORDER\Y\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmorder.resources
+D:\PROJECT\Project ORDER\Y\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreceiveproduct.resources
+D:\PROJECT\Project ORDER\Y\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsetupbackup.resources
+D:\PROJECT\Project ORDER\Y\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsetmoney.resources
+D:\PROJECT\Project ORDER\Y\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportproductremindstock.resources
+D:\PROJECT\Project ORDER\Y\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbillsalesub.resources
+D:\PROJECT\Project ORDER\Y\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportstockoutdetail.resources
+D:\PROJECT\Project ORDER\Y\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportstockout.resources
+D:\PROJECT\Project ORDER\Y\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportreceivedetail.resources
+D:\PROJECT\Project ORDER\Y\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportreceive.resources
+D:\PROJECT\Project ORDER\Y\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbillstockinout.resources
+D:\PROJECT\Project ORDER\Y\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportorderdetail.resources
+D:\PROJECT\Project ORDER\Y\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportorderbill.resources
+D:\PROJECT\Project ORDER\Y\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsaledetail.resources
+D:\PROJECT\Project ORDER\Y\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbillcash.resources
+D:\PROJECT\Project ORDER\Y\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbilldevery.resources
+D:\PROJECT\Project ORDER\Y\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbillorder.resources
+D:\PROJECT\Project ORDER\Y\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbillquotation.resources
+D:\PROJECT\Project ORDER\Y\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbillreceive.resources
+D:\PROJECT\Project ORDER\Y\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbillreturnproduct.resources
+D:\PROJECT\Project ORDER\Y\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcheckstockoption.resources
+D:\PROJECT\Project ORDER\Y\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmpaydetail.resources
+D:\PROJECT\Project ORDER\Y\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportcustomer.resources
+D:\PROJECT\Project ORDER\Y\Smartinventory\Smartinventory\obj\Debug\Smartinventory.Frmreportproduct.resources
+D:\PROJECT\Project ORDER\Y\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsaledetail_sumary.resources
+D:\PROJECT\Project ORDER\Y\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsaledetaillist.resources
+D:\PROJECT\Project ORDER\Y\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsumaryproductinout.resources
+D:\PROJECT\Project ORDER\Y\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsumaryproductin_out.resources
+D:\PROJECT\Project ORDER\Y\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmlogin.resources
+D:\PROJECT\Project ORDER\Y\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmmain.resources
+D:\PROJECT\Project ORDER\Y\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmdebitcustomerlist.resources
+D:\PROJECT\Project ORDER\Y\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowemployee.resources
+D:\PROJECT\Project ORDER\Y\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmstockout.resources
+D:\PROJECT\Project ORDER\Y\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmstockoutlist.resources
+D:\PROJECT\Project ORDER\Y\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreturnproduct.resources
+D:\PROJECT\Project ORDER\Y\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreturnproductlist.resources
+D:\PROJECT\Project ORDER\Y\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowdate.resources
+D:\PROJECT\Project ORDER\Y\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowsubsale.resources
+D:\PROJECT\Project ORDER\Y\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowproductsale.resources
+D:\PROJECT\Project ORDER\Y\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmproduct1.resources
+D:\PROJECT\Project ORDER\Y\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowproduct.resources
+D:\PROJECT\Project ORDER\Y\Smartinventory\Smartinventory\obj\Debug\Smartinventory.fromproductremind.resources
+D:\PROJECT\Project ORDER\Y\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmaddaccounttype.resources
+D:\PROJECT\Project ORDER\Y\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbackup_restore.resources
+D:\PROJECT\Project ORDER\Y\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmincome.resources
+D:\PROJECT\Project ORDER\Y\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowaccount.resources
+D:\PROJECT\Project ORDER\Y\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmstockouttype.resources
+D:\PROJECT\Project ORDER\Y\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbusiness.resources
+D:\PROJECT\Project ORDER\Y\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmconfig.resources
+D:\PROJECT\Project ORDER\Y\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmdepartment.resources
+D:\PROJECT\Project ORDER\Y\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmemployee.resources
+D:\PROJECT\Project ORDER\Y\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmunit.resources
+D:\PROJECT\Project ORDER\Y\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmtax.resources
+D:\PROJECT\Project ORDER\Y\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcustype.resources
+D:\PROJECT\Project ORDER\Y\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsubcategory.resources
+D:\PROJECT\Project ORDER\Y\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbrand.resources
+D:\PROJECT\Project ORDER\Y\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcategory.resources
+D:\PROJECT\Project ORDER\Y\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcolor.resources
+D:\PROJECT\Project ORDER\Y\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmdiscount.resources
+D:\PROJECT\Project ORDER\Y\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmdistrict.resources
+D:\PROJECT\Project ORDER\Y\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmexchange.resources
+D:\PROJECT\Project ORDER\Y\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmprovience.resources
+D:\PROJECT\Project ORDER\Y\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowunit.resources
+D:\PROJECT\Project ORDER\Y\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmstock.resources
+D:\PROJECT\Project ORDER\Y\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmuser.resources
+D:\PROJECT\Project ORDER\Y\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmvillage.resources
+D:\PROJECT\Project ORDER\Y\Smartinventory\Smartinventory\obj\Debug\Smartinventory.Resources.resources
+D:\PROJECT\Project ORDER\Y\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmoptionsale.resources
+D:\PROJECT\Project ORDER\Y\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmproductinfo.resources
+D:\PROJECT\Project ORDER\Y\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsale.resources
+D:\PROJECT\Project ORDER\Y\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsalelist.resources
+D:\PROJECT\Project ORDER\Y\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsalesubitem.resources
+D:\PROJECT\Project ORDER\Y\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsumarysale.resources
+D:\PROJECT\Project ORDER\Y\Smartinventory\Smartinventory\obj\Debug\Smartinventory.vbproj.GenerateResource.Cache
+D:\PROJECT\Project ORDER\Y\Smartinventory\Smartinventory\obj\Debug\Smartinventory.exe
+D:\PROJECT\Project ORDER\Y\Smartinventory\Smartinventory\obj\Debug\Smartinventory.xml
+D:\PROJECT\Project ORDER\Y\Smartinventory\Smartinventory\obj\Debug\Smartinventory.pdb
+D:\PROJECT\Project ORDER\Y\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmSumarysaledebit.resources
+D:\PROJECT\Project ORDER\Y\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsumarybillall.resources
+D:\PROJECT\Project ORDER\Y\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportSumarysaledebit.resources
+C:\Users\BOOT\Desktop\Smartinventory\Smartinventory\bin\Debug\Smartinventory.exe.config
+C:\Users\BOOT\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.exe
+C:\Users\BOOT\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.xml
+C:\Users\BOOT\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.pdb
+C:\Users\BOOT\Desktop\Smartinventory\Smartinventory\bin\Debug\Smartinventory.exe
+C:\Users\BOOT\Desktop\Smartinventory\Smartinventory\bin\Debug\Smartinventory.pdb
+C:\Users\BOOT\Desktop\Smartinventory\Smartinventory\bin\Debug\Smartinventory.xml
+C:\Users\BOOT\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.vbprojResolveAssemblyReference.cache
+C:\Users\BOOT\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmpaysupplier.resources
+C:\Users\BOOT\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcustomer.resources
+C:\Users\BOOT\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcustomerdebitlist.resources
+C:\Users\BOOT\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcustomerpay.resources
+C:\Users\BOOT\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsalename.resources
+C:\Users\BOOT\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowcustomer.resources
+C:\Users\BOOT\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.Form1.resources
+C:\Users\BOOT\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsumarybillall.resources
+C:\Users\BOOT\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsumaryproductinout_totalvalue.resources
+C:\Users\BOOT\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmpaorderdebitbilldetail.resources
+C:\Users\BOOT\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportincome_outcomedetail.resources
+C:\Users\BOOT\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportSumarysaledebit.resources
+C:\Users\BOOT\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsummarydebitcustomer.resources
+C:\Users\BOOT\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcreateorder.resources
+C:\Users\BOOT\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmorder.resources
+C:\Users\BOOT\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreceiveproduct.resources
+C:\Users\BOOT\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsetupbackup.resources
+C:\Users\BOOT\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsetmoney.resources
+C:\Users\BOOT\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportproductremindstock.resources
+C:\Users\BOOT\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbillsalesub.resources
+C:\Users\BOOT\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportstockoutdetail.resources
+C:\Users\BOOT\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportstockout.resources
+C:\Users\BOOT\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportreceivedetail.resources
+C:\Users\BOOT\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportreceive.resources
+C:\Users\BOOT\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbillstockinout.resources
+C:\Users\BOOT\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportorderdetail.resources
+C:\Users\BOOT\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportorderbill.resources
+C:\Users\BOOT\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsaledetail.resources
+C:\Users\BOOT\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbillcash.resources
+C:\Users\BOOT\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbilldevery.resources
+C:\Users\BOOT\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbillorder.resources
+C:\Users\BOOT\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbillquotation.resources
+C:\Users\BOOT\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbillreceive.resources
+C:\Users\BOOT\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbillreturnproduct.resources
+C:\Users\BOOT\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcheckstockoption.resources
+C:\Users\BOOT\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmpaydetail.resources
+C:\Users\BOOT\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportcustomer.resources
+C:\Users\BOOT\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.Frmreportproduct.resources
+C:\Users\BOOT\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsaledetail_sumary.resources
+C:\Users\BOOT\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsaledetaillist.resources
+C:\Users\BOOT\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsumaryproductinout.resources
+C:\Users\BOOT\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsumaryproductin_out.resources
+C:\Users\BOOT\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmlogin.resources
+C:\Users\BOOT\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmmain.resources
+C:\Users\BOOT\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmdebitcustomerlist.resources
+C:\Users\BOOT\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowemployee.resources
+C:\Users\BOOT\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmstockout.resources
+C:\Users\BOOT\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmstockoutlist.resources
+C:\Users\BOOT\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreturnproduct.resources
+C:\Users\BOOT\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreturnproductlist.resources
+C:\Users\BOOT\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowdate.resources
+C:\Users\BOOT\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowsubsale.resources
+C:\Users\BOOT\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowproductsale.resources
+C:\Users\BOOT\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmproduct1.resources
+C:\Users\BOOT\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowproduct.resources
+C:\Users\BOOT\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.fromproductremind.resources
+C:\Users\BOOT\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmaddaccounttype.resources
+C:\Users\BOOT\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbackup_restore.resources
+C:\Users\BOOT\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmincome.resources
+C:\Users\BOOT\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowaccount.resources
+C:\Users\BOOT\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmstockouttype.resources
+C:\Users\BOOT\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbusiness.resources
+C:\Users\BOOT\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmconfig.resources
+C:\Users\BOOT\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmdepartment.resources
+C:\Users\BOOT\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmemployee.resources
+C:\Users\BOOT\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmunit.resources
+C:\Users\BOOT\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmtax.resources
+C:\Users\BOOT\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcustype.resources
+C:\Users\BOOT\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsubcategory.resources
+C:\Users\BOOT\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbrand.resources
+C:\Users\BOOT\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcategory.resources
+C:\Users\BOOT\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcolor.resources
+C:\Users\BOOT\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmdiscount.resources
+C:\Users\BOOT\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmdistrict.resources
+C:\Users\BOOT\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmexchange.resources
+C:\Users\BOOT\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmprovience.resources
+C:\Users\BOOT\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowunit.resources
+C:\Users\BOOT\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmstock.resources
+C:\Users\BOOT\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmuser.resources
+C:\Users\BOOT\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmvillage.resources
+C:\Users\BOOT\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.Resources.resources
+C:\Users\BOOT\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmoptionsale.resources
+C:\Users\BOOT\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmproductinfo.resources
+C:\Users\BOOT\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsale.resources
+C:\Users\BOOT\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsalelist.resources
+C:\Users\BOOT\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsalesubitem.resources
+C:\Users\BOOT\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsumarysale.resources
+C:\Users\BOOT\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmSumarysaledebit.resources
+C:\Users\BOOT\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.vbproj.GenerateResource.Cache
+\\Mac\Home\Desktop\Smartinventory\Smartinventory\bin\Debug\Smartinventory.exe.config
+\\Mac\Home\Desktop\Smartinventory\Smartinventory\bin\Debug\Smartinventory.exe
+\\Mac\Home\Desktop\Smartinventory\Smartinventory\bin\Debug\Smartinventory.pdb
+\\Mac\Home\Desktop\Smartinventory\Smartinventory\bin\Debug\Smartinventory.xml
+\\Mac\Home\Desktop\Smartinventory\Smartinventory\bin\Debug\DevComponents.DotNetBar2.dll
+\\Mac\Home\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcustomerpay.resources
+\\Mac\Home\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmpaysupplier.resources
+\\Mac\Home\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcustomer.resources
+\\Mac\Home\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcustomerdebitlist.resources
+\\Mac\Home\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsalename.resources
+\\Mac\Home\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowcustomer.resources
+\\Mac\Home\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.Form1.resources
+\\Mac\Home\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsumarybillall.resources
+\\Mac\Home\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsumaryproductinout_totalvalue.resources
+\\Mac\Home\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmpaorderdebitbilldetail.resources
+\\Mac\Home\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportincome_outcomedetail.resources
+\\Mac\Home\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportSumarysaledebit.resources
+\\Mac\Home\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsummarydebitcustomer.resources
+\\Mac\Home\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcreateorder.resources
+\\Mac\Home\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmorder.resources
+\\Mac\Home\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreceiveproduct.resources
+\\Mac\Home\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsetupbackup.resources
+\\Mac\Home\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsetmoney.resources
+\\Mac\Home\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportproductremindstock.resources
+\\Mac\Home\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbillsalesub.resources
+\\Mac\Home\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportstockoutdetail.resources
+\\Mac\Home\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportstockout.resources
+\\Mac\Home\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportreceivedetail.resources
+\\Mac\Home\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportreceive.resources
+\\Mac\Home\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbillstockinout.resources
+\\Mac\Home\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportorderdetail.resources
+\\Mac\Home\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportorderbill.resources
+\\Mac\Home\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsaledetail.resources
+\\Mac\Home\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbillcash.resources
+\\Mac\Home\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbilldevery.resources
+\\Mac\Home\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbillorder.resources
+\\Mac\Home\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbillquotation.resources
+\\Mac\Home\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbillreceive.resources
+\\Mac\Home\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbillreturnproduct.resources
+\\Mac\Home\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcheckstockoption.resources
+\\Mac\Home\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmpaydetail.resources
+\\Mac\Home\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportcustomer.resources
+\\Mac\Home\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.Frmreportproduct.resources
+\\Mac\Home\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsaledetail_sumary.resources
+\\Mac\Home\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsaledetaillist.resources
+\\Mac\Home\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsumaryproductinout.resources
+\\Mac\Home\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsumaryproductin_out.resources
+\\Mac\Home\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmlogin.resources
+\\Mac\Home\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmmain.resources
+\\Mac\Home\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmdebitcustomerlist.resources
+\\Mac\Home\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowemployee.resources
+\\Mac\Home\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmstockout.resources
+\\Mac\Home\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmstockoutlist.resources
+\\Mac\Home\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreturnproduct.resources
+\\Mac\Home\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreturnproductlist.resources
+\\Mac\Home\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowdate.resources
+\\Mac\Home\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowsubsale.resources
+\\Mac\Home\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowproductsale.resources
+\\Mac\Home\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmproduct1.resources
+\\Mac\Home\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowproduct.resources
+\\Mac\Home\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.fromproductremind.resources
+\\Mac\Home\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmaddaccounttype.resources
+\\Mac\Home\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbackup_restore.resources
+\\Mac\Home\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmincome.resources
+\\Mac\Home\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowaccount.resources
+\\Mac\Home\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmstockouttype.resources
+\\Mac\Home\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbusiness.resources
+\\Mac\Home\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmconfig.resources
+\\Mac\Home\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmdepartment.resources
+\\Mac\Home\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmemployee.resources
+\\Mac\Home\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmunit.resources
+\\Mac\Home\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmtax.resources
+\\Mac\Home\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcustype.resources
+\\Mac\Home\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsubcategory.resources
+\\Mac\Home\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbrand.resources
+\\Mac\Home\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcategory.resources
+\\Mac\Home\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcolor.resources
+\\Mac\Home\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmdiscount.resources
+\\Mac\Home\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmdistrict.resources
+\\Mac\Home\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmexchange.resources
+\\Mac\Home\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmprovience.resources
+\\Mac\Home\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowunit.resources
+\\Mac\Home\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmstock.resources
+\\Mac\Home\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmuser.resources
+\\Mac\Home\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmvillage.resources
+\\Mac\Home\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.Resources.resources
+\\Mac\Home\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmoptionsale.resources
+\\Mac\Home\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmproductinfo.resources
+\\Mac\Home\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsale.resources
+\\Mac\Home\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsalelist.resources
+\\Mac\Home\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsalesubitem.resources
+\\Mac\Home\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsumarysale.resources
+\\Mac\Home\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmSumarysaledebit.resources
+\\Mac\Home\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.vbproj.GenerateResource.Cache
+\\Mac\Home\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.exe
+\\Mac\Home\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.xml
+\\Mac\Home\Desktop\Smartinventory\Smartinventory\obj\Debug\Smartinventory.pdb
+\\Mac\Home\Desktop\VOTE-FINAL\Smartinventory\Smartinventory\bin\Debug\Smartinventory.exe.config
+\\Mac\Home\Desktop\VOTE-FINAL\Smartinventory\Smartinventory\bin\Debug\Smartinventory.exe
+\\Mac\Home\Desktop\VOTE-FINAL\Smartinventory\Smartinventory\bin\Debug\Smartinventory.pdb
+\\Mac\Home\Desktop\VOTE-FINAL\Smartinventory\Smartinventory\bin\Debug\Smartinventory.xml
+\\Mac\Home\Desktop\VOTE-FINAL\Smartinventory\Smartinventory\bin\Debug\DevComponents.DotNetBar2.dll
+\\Mac\Home\Desktop\VOTE-FINAL\Smartinventory\Smartinventory\obj\Debug\Smartinventory.vbprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\VOTE-FINAL\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcustomerpay.resources
+\\Mac\Home\Desktop\VOTE-FINAL\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmpaysupplier.resources
+\\Mac\Home\Desktop\VOTE-FINAL\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcustomer.resources
+\\Mac\Home\Desktop\VOTE-FINAL\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcustomerdebitlist.resources
+\\Mac\Home\Desktop\VOTE-FINAL\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsalename.resources
+\\Mac\Home\Desktop\VOTE-FINAL\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowcustomer.resources
+\\Mac\Home\Desktop\VOTE-FINAL\Smartinventory\Smartinventory\obj\Debug\Smartinventory.Form1.resources
+\\Mac\Home\Desktop\VOTE-FINAL\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsumarybillall.resources
+\\Mac\Home\Desktop\VOTE-FINAL\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsumaryproductinout_totalvalue.resources
+\\Mac\Home\Desktop\VOTE-FINAL\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmpaorderdebitbilldetail.resources
+\\Mac\Home\Desktop\VOTE-FINAL\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportincome_outcomedetail.resources
+\\Mac\Home\Desktop\VOTE-FINAL\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportSumarysaledebit.resources
+\\Mac\Home\Desktop\VOTE-FINAL\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsummarydebitcustomer.resources
+\\Mac\Home\Desktop\VOTE-FINAL\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcreateorder.resources
+\\Mac\Home\Desktop\VOTE-FINAL\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmorder.resources
+\\Mac\Home\Desktop\VOTE-FINAL\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreceiveproduct.resources
+\\Mac\Home\Desktop\VOTE-FINAL\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmmoneycapitaltotal.resources
+\\Mac\Home\Desktop\VOTE-FINAL\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsetupbackup.resources
+\\Mac\Home\Desktop\VOTE-FINAL\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsetmoney.resources
+\\Mac\Home\Desktop\VOTE-FINAL\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportproductremindstock.resources
+\\Mac\Home\Desktop\VOTE-FINAL\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbillsalesub.resources
+\\Mac\Home\Desktop\VOTE-FINAL\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportstockoutdetail.resources
+\\Mac\Home\Desktop\VOTE-FINAL\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportstockout.resources
+\\Mac\Home\Desktop\VOTE-FINAL\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportreceivedetail.resources
+\\Mac\Home\Desktop\VOTE-FINAL\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportreceive.resources
+\\Mac\Home\Desktop\VOTE-FINAL\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbillstockinout.resources
+\\Mac\Home\Desktop\VOTE-FINAL\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportorderdetail.resources
+\\Mac\Home\Desktop\VOTE-FINAL\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportorderbill.resources
+\\Mac\Home\Desktop\VOTE-FINAL\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsaledetail.resources
+\\Mac\Home\Desktop\VOTE-FINAL\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbillcash.resources
+\\Mac\Home\Desktop\VOTE-FINAL\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbilldevery.resources
+\\Mac\Home\Desktop\VOTE-FINAL\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbillorder.resources
+\\Mac\Home\Desktop\VOTE-FINAL\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbillquotation.resources
+\\Mac\Home\Desktop\VOTE-FINAL\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbillreceive.resources
+\\Mac\Home\Desktop\VOTE-FINAL\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbillreturnproduct.resources
+\\Mac\Home\Desktop\VOTE-FINAL\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcheckstockoption.resources
+\\Mac\Home\Desktop\VOTE-FINAL\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmpaydetail.resources
+\\Mac\Home\Desktop\VOTE-FINAL\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportcustomer.resources
+\\Mac\Home\Desktop\VOTE-FINAL\Smartinventory\Smartinventory\obj\Debug\Smartinventory.Frmreportproduct.resources
+\\Mac\Home\Desktop\VOTE-FINAL\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsaledetail_sumary.resources
+\\Mac\Home\Desktop\VOTE-FINAL\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsaledetaillist.resources
+\\Mac\Home\Desktop\VOTE-FINAL\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsumaryproductinout.resources
+\\Mac\Home\Desktop\VOTE-FINAL\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsumaryproductin_out.resources
+\\Mac\Home\Desktop\VOTE-FINAL\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmlogin.resources
+\\Mac\Home\Desktop\VOTE-FINAL\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmmain.resources
+\\Mac\Home\Desktop\VOTE-FINAL\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmdebitcustomerlist.resources
+\\Mac\Home\Desktop\VOTE-FINAL\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowemployee.resources
+\\Mac\Home\Desktop\VOTE-FINAL\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmstockout.resources
+\\Mac\Home\Desktop\VOTE-FINAL\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmstockoutlist.resources
+\\Mac\Home\Desktop\VOTE-FINAL\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreturnproduct.resources
+\\Mac\Home\Desktop\VOTE-FINAL\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreturnproductlist.resources
+\\Mac\Home\Desktop\VOTE-FINAL\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowdate.resources
+\\Mac\Home\Desktop\VOTE-FINAL\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowsubsale.resources
+\\Mac\Home\Desktop\VOTE-FINAL\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowproductsale.resources
+\\Mac\Home\Desktop\VOTE-FINAL\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmproduct1.resources
+\\Mac\Home\Desktop\VOTE-FINAL\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowproduct.resources
+\\Mac\Home\Desktop\VOTE-FINAL\Smartinventory\Smartinventory\obj\Debug\Smartinventory.fromproductremind.resources
+\\Mac\Home\Desktop\VOTE-FINAL\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmaddaccounttype.resources
+\\Mac\Home\Desktop\VOTE-FINAL\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbackup_restore.resources
+\\Mac\Home\Desktop\VOTE-FINAL\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmincome.resources
+\\Mac\Home\Desktop\VOTE-FINAL\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowaccount.resources
+\\Mac\Home\Desktop\VOTE-FINAL\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmstockouttype.resources
+\\Mac\Home\Desktop\VOTE-FINAL\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbusiness.resources
+\\Mac\Home\Desktop\VOTE-FINAL\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmconfig.resources
+\\Mac\Home\Desktop\VOTE-FINAL\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmdepartment.resources
+\\Mac\Home\Desktop\VOTE-FINAL\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmemployee.resources
+\\Mac\Home\Desktop\VOTE-FINAL\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmunit.resources
+\\Mac\Home\Desktop\VOTE-FINAL\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmtax.resources
+\\Mac\Home\Desktop\VOTE-FINAL\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcustype.resources
+\\Mac\Home\Desktop\VOTE-FINAL\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsubcategory.resources
+\\Mac\Home\Desktop\VOTE-FINAL\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbrand.resources
+\\Mac\Home\Desktop\VOTE-FINAL\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcategory.resources
+\\Mac\Home\Desktop\VOTE-FINAL\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcolor.resources
+\\Mac\Home\Desktop\VOTE-FINAL\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmdiscount.resources
+\\Mac\Home\Desktop\VOTE-FINAL\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmdistrict.resources
+\\Mac\Home\Desktop\VOTE-FINAL\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmexchange.resources
+\\Mac\Home\Desktop\VOTE-FINAL\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmprovience.resources
+\\Mac\Home\Desktop\VOTE-FINAL\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowunit.resources
+\\Mac\Home\Desktop\VOTE-FINAL\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmstock.resources
+\\Mac\Home\Desktop\VOTE-FINAL\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmuser.resources
+\\Mac\Home\Desktop\VOTE-FINAL\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmvillage.resources
+\\Mac\Home\Desktop\VOTE-FINAL\Smartinventory\Smartinventory\obj\Debug\Smartinventory.Resources.resources
+\\Mac\Home\Desktop\VOTE-FINAL\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmoptionsale.resources
+\\Mac\Home\Desktop\VOTE-FINAL\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmproductinfo.resources
+\\Mac\Home\Desktop\VOTE-FINAL\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsale.resources
+\\Mac\Home\Desktop\VOTE-FINAL\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsalelist.resources
+\\Mac\Home\Desktop\VOTE-FINAL\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsalesubitem.resources
+\\Mac\Home\Desktop\VOTE-FINAL\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsumarysale.resources
+\\Mac\Home\Desktop\VOTE-FINAL\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmSumarysaledebit.resources
+\\Mac\Home\Desktop\VOTE-FINAL\Smartinventory\Smartinventory\obj\Debug\Smartinventory.vbproj.GenerateResource.Cache
+\\Mac\Home\Desktop\VOTE-FINAL\Smartinventory\Smartinventory\obj\Debug\Smartinventory.exe
+\\Mac\Home\Desktop\VOTE-FINAL\Smartinventory\Smartinventory\obj\Debug\Smartinventory.xml
+\\Mac\Home\Desktop\VOTE-FINAL\Smartinventory\Smartinventory\obj\Debug\Smartinventory.pdb
+C:\Users\PC\Desktop\Say_inventory\Smartinventory\Smartinventory\bin\Debug\Smartinventory.exe.config
+C:\Users\PC\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.exe
+C:\Users\PC\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.xml
+C:\Users\PC\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.pdb
+C:\Users\PC\Desktop\Say_inventory\Smartinventory\Smartinventory\bin\Debug\Smartinventory.exe
+C:\Users\PC\Desktop\Say_inventory\Smartinventory\Smartinventory\bin\Debug\Smartinventory.pdb
+C:\Users\PC\Desktop\Say_inventory\Smartinventory\Smartinventory\bin\Debug\Smartinventory.xml
+C:\Users\PC\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.vbprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcustomerpay.resources
+C:\Users\PC\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmpaysupplier.resources
+C:\Users\PC\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcustomer.resources
+C:\Users\PC\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcustomerdebitlist.resources
+C:\Users\PC\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsalename.resources
+C:\Users\PC\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowcustomer.resources
+C:\Users\PC\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.Form1.resources
+C:\Users\PC\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsumarybillall.resources
+C:\Users\PC\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsumaryproductinout_totalvalue.resources
+C:\Users\PC\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmpaorderdebitbilldetail.resources
+C:\Users\PC\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportincome_outcomedetail.resources
+C:\Users\PC\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportSumarysaledebit.resources
+C:\Users\PC\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsummarydebitcustomer.resources
+C:\Users\PC\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcreateorder.resources
+C:\Users\PC\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmorder.resources
+C:\Users\PC\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreceiveproduct.resources
+C:\Users\PC\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmmoneycapitaltotal.resources
+C:\Users\PC\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsetupbackup.resources
+C:\Users\PC\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsetmoney.resources
+C:\Users\PC\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportproductremindstock.resources
+C:\Users\PC\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbillsalesub.resources
+C:\Users\PC\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportstockoutdetail.resources
+C:\Users\PC\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportstockout.resources
+C:\Users\PC\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportreceivedetail.resources
+C:\Users\PC\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportreceive.resources
+C:\Users\PC\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbillstockinout.resources
+C:\Users\PC\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportorderdetail.resources
+C:\Users\PC\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportorderbill.resources
+C:\Users\PC\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsaledetail.resources
+C:\Users\PC\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbillcash.resources
+C:\Users\PC\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbilldevery.resources
+C:\Users\PC\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbillorder.resources
+C:\Users\PC\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbillquotation.resources
+C:\Users\PC\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbillreceive.resources
+C:\Users\PC\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbillreturnproduct.resources
+C:\Users\PC\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcheckstockoption.resources
+C:\Users\PC\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmpaydetail.resources
+C:\Users\PC\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportcustomer.resources
+C:\Users\PC\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.Frmreportproduct.resources
+C:\Users\PC\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsaledetail_sumary.resources
+C:\Users\PC\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsaledetaillist.resources
+C:\Users\PC\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsumaryproductinout.resources
+C:\Users\PC\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsumaryproductin_out.resources
+C:\Users\PC\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmlogin.resources
+C:\Users\PC\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmmain.resources
+C:\Users\PC\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmdebitcustomerlist.resources
+C:\Users\PC\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowemployee.resources
+C:\Users\PC\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmstockout.resources
+C:\Users\PC\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmstockoutlist.resources
+C:\Users\PC\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreturnproduct.resources
+C:\Users\PC\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreturnproductlist.resources
+C:\Users\PC\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowdate.resources
+C:\Users\PC\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowsubsale.resources
+C:\Users\PC\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowproductsale.resources
+C:\Users\PC\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmproduct1.resources
+C:\Users\PC\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowproduct.resources
+C:\Users\PC\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.fromproductremind.resources
+C:\Users\PC\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmaddaccounttype.resources
+C:\Users\PC\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbackup_restore.resources
+C:\Users\PC\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmincome.resources
+C:\Users\PC\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowaccount.resources
+C:\Users\PC\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmstockouttype.resources
+C:\Users\PC\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbusiness.resources
+C:\Users\PC\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmconfig.resources
+C:\Users\PC\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmdepartment.resources
+C:\Users\PC\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmemployee.resources
+C:\Users\PC\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmunit.resources
+C:\Users\PC\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmtax.resources
+C:\Users\PC\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcustype.resources
+C:\Users\PC\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsubcategory.resources
+C:\Users\PC\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbrand.resources
+C:\Users\PC\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcategory.resources
+C:\Users\PC\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcolor.resources
+C:\Users\PC\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmdiscount.resources
+C:\Users\PC\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmdistrict.resources
+C:\Users\PC\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmexchange.resources
+C:\Users\PC\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmprovience.resources
+C:\Users\PC\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowunit.resources
+C:\Users\PC\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmstock.resources
+C:\Users\PC\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmuser.resources
+C:\Users\PC\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmvillage.resources
+C:\Users\PC\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.Resources.resources
+C:\Users\PC\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmoptionsale.resources
+C:\Users\PC\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmproductinfo.resources
+C:\Users\PC\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsale.resources
+C:\Users\PC\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsalelist.resources
+C:\Users\PC\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsalesubitem.resources
+C:\Users\PC\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsumarysale.resources
+C:\Users\PC\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmSumarysaledebit.resources
+C:\Users\PC\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.vbproj.GenerateResource.Cache
+C:\Users\Phone\Desktop\Say_inventory\Smartinventory\Smartinventory\bin\Debug\Smartinventory.exe.config
+C:\Users\Phone\Desktop\Say_inventory\Smartinventory\Smartinventory\bin\Debug\Smartinventory.exe
+C:\Users\Phone\Desktop\Say_inventory\Smartinventory\Smartinventory\bin\Debug\Smartinventory.pdb
+C:\Users\Phone\Desktop\Say_inventory\Smartinventory\Smartinventory\bin\Debug\Smartinventory.xml
+C:\Users\Phone\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmaccount.resources
+C:\Users\Phone\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcashpay.resources
+C:\Users\Phone\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmmoneycapitaltotal.resources
+C:\Users\Phone\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbillcashpay.resources
+C:\Users\Phone\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportwithdraw.resources
+C:\Users\Phone\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcustomerpay.resources
+C:\Users\Phone\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmpaysupplier.resources
+C:\Users\Phone\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcustomer.resources
+C:\Users\Phone\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcustomerdebitlist.resources
+C:\Users\Phone\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsalename.resources
+C:\Users\Phone\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowcustomer.resources
+C:\Users\Phone\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.Form1.resources
+C:\Users\Phone\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.Form2.resources
+C:\Users\Phone\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsumarybillall.resources
+C:\Users\Phone\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsumaryproductinout_totalvalue.resources
+C:\Users\Phone\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmpaorderdebitbilldetail.resources
+C:\Users\Phone\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportincome_outcomedetail.resources
+C:\Users\Phone\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportSumarysaledebit.resources
+C:\Users\Phone\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsummarydebitcustomer.resources
+C:\Users\Phone\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcreateorder.resources
+C:\Users\Phone\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmorder.resources
+C:\Users\Phone\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreceiveproduct.resources
+C:\Users\Phone\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsetupbackup.resources
+C:\Users\Phone\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsetmoney.resources
+C:\Users\Phone\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportproductremindstock.resources
+C:\Users\Phone\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbillsalesub.resources
+C:\Users\Phone\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportstockoutdetail.resources
+C:\Users\Phone\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportstockout.resources
+C:\Users\Phone\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportreceivedetail.resources
+C:\Users\Phone\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportreceive.resources
+C:\Users\Phone\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbillstockinout.resources
+C:\Users\Phone\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportorderdetail.resources
+C:\Users\Phone\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportorderbill.resources
+C:\Users\Phone\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsaledetail.resources
+C:\Users\Phone\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbillcash.resources
+C:\Users\Phone\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbilldevery.resources
+C:\Users\Phone\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbillorder.resources
+C:\Users\Phone\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbillquotation.resources
+C:\Users\Phone\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbillreceive.resources
+C:\Users\Phone\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbillreturnproduct.resources
+C:\Users\Phone\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcheckstockoption.resources
+C:\Users\Phone\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmpaydetail.resources
+C:\Users\Phone\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportcustomer.resources
+C:\Users\Phone\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.Frmreportproduct.resources
+C:\Users\Phone\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsaledetail_sumary.resources
+C:\Users\Phone\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsaledetaillist.resources
+C:\Users\Phone\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsumaryproductinout.resources
+C:\Users\Phone\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsumaryproductin_out.resources
+C:\Users\Phone\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmlogin.resources
+C:\Users\Phone\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmmain.resources
+C:\Users\Phone\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmdebitcustomerlist.resources
+C:\Users\Phone\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowemployee.resources
+C:\Users\Phone\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmstockout.resources
+C:\Users\Phone\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmstockoutlist.resources
+C:\Users\Phone\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreturnproduct.resources
+C:\Users\Phone\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreturnproductlist.resources
+C:\Users\Phone\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowdate.resources
+C:\Users\Phone\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowsubsale.resources
+C:\Users\Phone\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowproductsale.resources
+C:\Users\Phone\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmproduct1.resources
+C:\Users\Phone\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowproduct.resources
+C:\Users\Phone\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.fromproductremind.resources
+C:\Users\Phone\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmaddaccounttype.resources
+C:\Users\Phone\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbackup_restore.resources
+C:\Users\Phone\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmincome.resources
+C:\Users\Phone\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowaccount.resources
+C:\Users\Phone\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmstockouttype.resources
+C:\Users\Phone\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbusiness.resources
+C:\Users\Phone\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmconfig.resources
+C:\Users\Phone\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmdepartment.resources
+C:\Users\Phone\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmemployee.resources
+C:\Users\Phone\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmunit.resources
+C:\Users\Phone\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmtax.resources
+C:\Users\Phone\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcustype.resources
+C:\Users\Phone\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsubcategory.resources
+C:\Users\Phone\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbrand.resources
+C:\Users\Phone\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcategory.resources
+C:\Users\Phone\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcolor.resources
+C:\Users\Phone\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmdiscount.resources
+C:\Users\Phone\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmdistrict.resources
+C:\Users\Phone\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmexchange.resources
+C:\Users\Phone\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmprovience.resources
+C:\Users\Phone\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowunit.resources
+C:\Users\Phone\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmstock.resources
+C:\Users\Phone\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmuser.resources
+C:\Users\Phone\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmvillage.resources
+C:\Users\Phone\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.Resources.resources
+C:\Users\Phone\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmoptionsale.resources
+C:\Users\Phone\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmproductinfo.resources
+C:\Users\Phone\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsale.resources
+C:\Users\Phone\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsalelist.resources
+C:\Users\Phone\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsalesubitem.resources
+C:\Users\Phone\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsumarysale.resources
+C:\Users\Phone\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmSumarysaledebit.resources
+C:\Users\Phone\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.vbproj.GenerateResource.Cache
+C:\Users\Phone\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.exe
+C:\Users\Phone\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.xml
+C:\Users\Phone\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.pdb
+C:\Users\Phone\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.vbprojResolveAssemblyReference.cache
+C:\Users\pay\Desktop\Say_inventory\Smartinventory\Smartinventory\bin\Debug\Smartinventory.exe.config
+C:\Users\pay\Desktop\Say_inventory\Smartinventory\Smartinventory\bin\Debug\Smartinventory.exe
+C:\Users\pay\Desktop\Say_inventory\Smartinventory\Smartinventory\bin\Debug\Smartinventory.pdb
+C:\Users\pay\Desktop\Say_inventory\Smartinventory\Smartinventory\bin\Debug\Smartinventory.xml
+C:\Users\pay\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.vbprojResolveAssemblyReference.cache
+C:\Users\pay\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmaccount.resources
+C:\Users\pay\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcashpay.resources
+C:\Users\pay\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmmoneycapitaltotal.resources
+C:\Users\pay\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbillcashpay.resources
+C:\Users\pay\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportwithdraw.resources
+C:\Users\pay\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcustomerpay.resources
+C:\Users\pay\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmpaysupplier.resources
+C:\Users\pay\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcustomer.resources
+C:\Users\pay\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcustomerdebitlist.resources
+C:\Users\pay\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsalename.resources
+C:\Users\pay\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowcustomer.resources
+C:\Users\pay\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.Form1.resources
+C:\Users\pay\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.Form2.resources
+C:\Users\pay\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsumarybillall.resources
+C:\Users\pay\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsumaryproductinout_totalvalue.resources
+C:\Users\pay\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmpaorderdebitbilldetail.resources
+C:\Users\pay\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportincome_outcomedetail.resources
+C:\Users\pay\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportSumarysaledebit.resources
+C:\Users\pay\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsummarydebitcustomer.resources
+C:\Users\pay\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcreateorder.resources
+C:\Users\pay\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmorder.resources
+C:\Users\pay\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreceiveproduct.resources
+C:\Users\pay\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsetupbackup.resources
+C:\Users\pay\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsetmoney.resources
+C:\Users\pay\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportproductremindstock.resources
+C:\Users\pay\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbillsalesub.resources
+C:\Users\pay\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportstockoutdetail.resources
+C:\Users\pay\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportstockout.resources
+C:\Users\pay\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportreceivedetail.resources
+C:\Users\pay\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportreceive.resources
+C:\Users\pay\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbillstockinout.resources
+C:\Users\pay\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportorderdetail.resources
+C:\Users\pay\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportorderbill.resources
+C:\Users\pay\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsaledetail.resources
+C:\Users\pay\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbillcash.resources
+C:\Users\pay\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbilldevery.resources
+C:\Users\pay\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbillorder.resources
+C:\Users\pay\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbillquotation.resources
+C:\Users\pay\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbillreceive.resources
+C:\Users\pay\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbillreturnproduct.resources
+C:\Users\pay\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcheckstockoption.resources
+C:\Users\pay\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmpaydetail.resources
+C:\Users\pay\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportcustomer.resources
+C:\Users\pay\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.Frmreportproduct.resources
+C:\Users\pay\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsaledetail_sumary.resources
+C:\Users\pay\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsaledetaillist.resources
+C:\Users\pay\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsumaryproductinout.resources
+C:\Users\pay\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsumaryproductin_out.resources
+C:\Users\pay\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmlogin.resources
+C:\Users\pay\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmmain.resources
+C:\Users\pay\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmdebitcustomerlist.resources
+C:\Users\pay\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowemployee.resources
+C:\Users\pay\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmstockout.resources
+C:\Users\pay\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmstockoutlist.resources
+C:\Users\pay\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreturnproduct.resources
+C:\Users\pay\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreturnproductlist.resources
+C:\Users\pay\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowdate.resources
+C:\Users\pay\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowsubsale.resources
+C:\Users\pay\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowproductsale.resources
+C:\Users\pay\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmproduct1.resources
+C:\Users\pay\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowproduct.resources
+C:\Users\pay\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.fromproductremind.resources
+C:\Users\pay\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmaddaccounttype.resources
+C:\Users\pay\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbackup_restore.resources
+C:\Users\pay\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmincome.resources
+C:\Users\pay\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowaccount.resources
+C:\Users\pay\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmstockouttype.resources
+C:\Users\pay\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbusiness.resources
+C:\Users\pay\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmconfig.resources
+C:\Users\pay\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmdepartment.resources
+C:\Users\pay\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmemployee.resources
+C:\Users\pay\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmunit.resources
+C:\Users\pay\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmtax.resources
+C:\Users\pay\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcustype.resources
+C:\Users\pay\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsubcategory.resources
+C:\Users\pay\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbrand.resources
+C:\Users\pay\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcategory.resources
+C:\Users\pay\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcolor.resources
+C:\Users\pay\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmdiscount.resources
+C:\Users\pay\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmdistrict.resources
+C:\Users\pay\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmexchange.resources
+C:\Users\pay\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmprovience.resources
+C:\Users\pay\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowunit.resources
+C:\Users\pay\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmstock.resources
+C:\Users\pay\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmuser.resources
+C:\Users\pay\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmvillage.resources
+C:\Users\pay\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.Resources.resources
+C:\Users\pay\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmoptionsale.resources
+C:\Users\pay\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmproductinfo.resources
+C:\Users\pay\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsale.resources
+C:\Users\pay\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsalelist.resources
+C:\Users\pay\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsalesubitem.resources
+C:\Users\pay\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsumarysale.resources
+C:\Users\pay\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmSumarysaledebit.resources
+C:\Users\pay\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.vbproj.GenerateResource.Cache
+C:\Users\pay\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.exe
+C:\Users\pay\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.xml
+C:\Users\pay\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.pdb
+E:\Project ORDER\WATACHI\Say_inventory\Smartinventory\Smartinventory\bin\Debug\Smartinventory.exe.config
+E:\Project ORDER\WATACHI\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.exe
+E:\Project ORDER\WATACHI\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.xml
+E:\Project ORDER\WATACHI\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.pdb
+E:\Project ORDER\WATACHI\Say_inventory\Smartinventory\Smartinventory\bin\Debug\Smartinventory.exe
+E:\Project ORDER\WATACHI\Say_inventory\Smartinventory\Smartinventory\bin\Debug\Smartinventory.pdb
+E:\Project ORDER\WATACHI\Say_inventory\Smartinventory\Smartinventory\bin\Debug\Smartinventory.xml
+E:\Project ORDER\WATACHI\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.vbprojResolveAssemblyReference.cache
+E:\Project ORDER\WATACHI\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmaccount.resources
+E:\Project ORDER\WATACHI\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcash.resources
+E:\Project ORDER\WATACHI\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmmoneycapitaltotal.resources
+E:\Project ORDER\WATACHI\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsaledetaillist2.resources
+E:\Project ORDER\WATACHI\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsaledetaillist1.resources
+E:\Project ORDER\WATACHI\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbillcashpay.resources
+E:\Project ORDER\WATACHI\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportwithdraw.resources
+E:\Project ORDER\WATACHI\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcustomerpay.resources
+E:\Project ORDER\WATACHI\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmpaysupplier.resources
+E:\Project ORDER\WATACHI\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcustomer.resources
+E:\Project ORDER\WATACHI\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcustomerdebitlist.resources
+E:\Project ORDER\WATACHI\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsalename.resources
+E:\Project ORDER\WATACHI\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowcustomer.resources
+E:\Project ORDER\WATACHI\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.Form1.resources
+E:\Project ORDER\WATACHI\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.Form2.resources
+E:\Project ORDER\WATACHI\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsumarybillall.resources
+E:\Project ORDER\WATACHI\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsumaryproductinout_totalvalue.resources
+E:\Project ORDER\WATACHI\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmpaorderdebitbilldetail.resources
+E:\Project ORDER\WATACHI\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportincome_outcomedetail.resources
+E:\Project ORDER\WATACHI\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportSumarysaledebit.resources
+E:\Project ORDER\WATACHI\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsummarydebitcustomer.resources
+E:\Project ORDER\WATACHI\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcreateorder.resources
+E:\Project ORDER\WATACHI\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmorder.resources
+E:\Project ORDER\WATACHI\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreceiveproduct.resources
+E:\Project ORDER\WATACHI\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsetupbackup.resources
+E:\Project ORDER\WATACHI\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsetmoney.resources
+E:\Project ORDER\WATACHI\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportproductremindstock.resources
+E:\Project ORDER\WATACHI\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbillsalesub.resources
+E:\Project ORDER\WATACHI\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportstockoutdetail.resources
+E:\Project ORDER\WATACHI\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportstockout.resources
+E:\Project ORDER\WATACHI\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportreceivedetail.resources
+E:\Project ORDER\WATACHI\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportreceive.resources
+E:\Project ORDER\WATACHI\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbillstockinout.resources
+E:\Project ORDER\WATACHI\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportorderdetail.resources
+E:\Project ORDER\WATACHI\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportorderbill.resources
+E:\Project ORDER\WATACHI\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsaledetail.resources
+E:\Project ORDER\WATACHI\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbillcash.resources
+E:\Project ORDER\WATACHI\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbilldevery.resources
+E:\Project ORDER\WATACHI\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbillorder.resources
+E:\Project ORDER\WATACHI\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbillquotation.resources
+E:\Project ORDER\WATACHI\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbillreceive.resources
+E:\Project ORDER\WATACHI\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbillreturnproduct.resources
+E:\Project ORDER\WATACHI\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcheckstockoption.resources
+E:\Project ORDER\WATACHI\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmpaydetail.resources
+E:\Project ORDER\WATACHI\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportcustomer.resources
+E:\Project ORDER\WATACHI\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.Frmreportproduct.resources
+E:\Project ORDER\WATACHI\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsaledetail_sumary.resources
+E:\Project ORDER\WATACHI\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsaledetaillist.resources
+E:\Project ORDER\WATACHI\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsumaryproductinout.resources
+E:\Project ORDER\WATACHI\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsumaryproductin_out.resources
+E:\Project ORDER\WATACHI\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmlogin.resources
+E:\Project ORDER\WATACHI\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmmain.resources
+E:\Project ORDER\WATACHI\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmdebitcustomerlist.resources
+E:\Project ORDER\WATACHI\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowemployee.resources
+E:\Project ORDER\WATACHI\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmstockout.resources
+E:\Project ORDER\WATACHI\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmstockoutlist.resources
+E:\Project ORDER\WATACHI\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreturnproduct.resources
+E:\Project ORDER\WATACHI\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreturnproductlist.resources
+E:\Project ORDER\WATACHI\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowdate.resources
+E:\Project ORDER\WATACHI\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowsubsale.resources
+E:\Project ORDER\WATACHI\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowproductsale.resources
+E:\Project ORDER\WATACHI\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmproduct1.resources
+E:\Project ORDER\WATACHI\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowproduct.resources
+E:\Project ORDER\WATACHI\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.fromproductremind.resources
+E:\Project ORDER\WATACHI\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmaddaccounttype.resources
+E:\Project ORDER\WATACHI\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbackup_restore.resources
+E:\Project ORDER\WATACHI\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmincome.resources
+E:\Project ORDER\WATACHI\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowaccount.resources
+E:\Project ORDER\WATACHI\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmstockouttype.resources
+E:\Project ORDER\WATACHI\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbusiness.resources
+E:\Project ORDER\WATACHI\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmconfig.resources
+E:\Project ORDER\WATACHI\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmdepartment.resources
+E:\Project ORDER\WATACHI\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmemployee.resources
+E:\Project ORDER\WATACHI\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmunit.resources
+E:\Project ORDER\WATACHI\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmtax.resources
+E:\Project ORDER\WATACHI\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcustype.resources
+E:\Project ORDER\WATACHI\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsubcategory.resources
+E:\Project ORDER\WATACHI\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbrand.resources
+E:\Project ORDER\WATACHI\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcategory.resources
+E:\Project ORDER\WATACHI\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcolor.resources
+E:\Project ORDER\WATACHI\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmdiscount.resources
+E:\Project ORDER\WATACHI\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmdistrict.resources
+E:\Project ORDER\WATACHI\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmexchange.resources
+E:\Project ORDER\WATACHI\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmprovience.resources
+E:\Project ORDER\WATACHI\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowunit.resources
+E:\Project ORDER\WATACHI\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmstock.resources
+E:\Project ORDER\WATACHI\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmuser.resources
+E:\Project ORDER\WATACHI\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmvillage.resources
+E:\Project ORDER\WATACHI\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.Resources.resources
+E:\Project ORDER\WATACHI\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmoptionsale.resources
+E:\Project ORDER\WATACHI\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmproductinfo.resources
+E:\Project ORDER\WATACHI\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsale.resources
+E:\Project ORDER\WATACHI\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsalelist.resources
+E:\Project ORDER\WATACHI\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsalesubitem.resources
+E:\Project ORDER\WATACHI\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsumarysale.resources
+E:\Project ORDER\WATACHI\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmSumarysaledebit.resources
+E:\Project ORDER\WATACHI\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.vbproj.GenerateResource.Cache
+E:\Project ORDER\WATACHI\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmupdateproduct.resources
+E:\SQL\Say_inventory\Smartinventory\Smartinventory\bin\Debug\Smartinventory.exe.config
+E:\SQL\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.exe
+E:\SQL\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.xml
+E:\SQL\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.pdb
+E:\SQL\Say_inventory\Smartinventory\Smartinventory\bin\Debug\Smartinventory.exe
+E:\SQL\Say_inventory\Smartinventory\Smartinventory\bin\Debug\Smartinventory.pdb
+E:\SQL\Say_inventory\Smartinventory\Smartinventory\bin\Debug\Smartinventory.xml
+E:\SQL\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.vbprojResolveAssemblyReference.cache
+E:\SQL\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmaccount.resources
+E:\SQL\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcash.resources
+E:\SQL\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmmoneycapitaltotal.resources
+E:\SQL\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsaledetaillist2.resources
+E:\SQL\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsaledetaillist1.resources
+E:\SQL\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbillcashpay.resources
+E:\SQL\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportwithdraw.resources
+E:\SQL\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmupdateproduct.resources
+E:\SQL\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcustomerpay.resources
+E:\SQL\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmpaysupplier.resources
+E:\SQL\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcustomer.resources
+E:\SQL\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcustomerdebitlist.resources
+E:\SQL\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsalename.resources
+E:\SQL\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowcustomer.resources
+E:\SQL\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.Form1.resources
+E:\SQL\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.Form2.resources
+E:\SQL\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsumarybillall.resources
+E:\SQL\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsumaryproductinout_totalvalue.resources
+E:\SQL\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmpaorderdebitbilldetail.resources
+E:\SQL\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportincome_outcomedetail.resources
+E:\SQL\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportSumarysaledebit.resources
+E:\SQL\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsummarydebitcustomer.resources
+E:\SQL\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcreateorder.resources
+E:\SQL\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmorder.resources
+E:\SQL\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreceiveproduct.resources
+E:\SQL\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsetupbackup.resources
+E:\SQL\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsetmoney.resources
+E:\SQL\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportproductremindstock.resources
+E:\SQL\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbillsalesub.resources
+E:\SQL\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportstockoutdetail.resources
+E:\SQL\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportstockout.resources
+E:\SQL\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportreceivedetail.resources
+E:\SQL\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportreceive.resources
+E:\SQL\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbillstockinout.resources
+E:\SQL\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportorderdetail.resources
+E:\SQL\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportorderbill.resources
+E:\SQL\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsaledetail.resources
+E:\SQL\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbillcash.resources
+E:\SQL\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbilldevery.resources
+E:\SQL\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbillorder.resources
+E:\SQL\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbillquotation.resources
+E:\SQL\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbillreceive.resources
+E:\SQL\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbillreturnproduct.resources
+E:\SQL\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcheckstockoption.resources
+E:\SQL\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmpaydetail.resources
+E:\SQL\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportcustomer.resources
+E:\SQL\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.Frmreportproduct.resources
+E:\SQL\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsaledetail_sumary.resources
+E:\SQL\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsaledetaillist.resources
+E:\SQL\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsumaryproductinout.resources
+E:\SQL\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsumaryproductin_out.resources
+E:\SQL\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmlogin.resources
+E:\SQL\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmmain.resources
+E:\SQL\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmdebitcustomerlist.resources
+E:\SQL\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowemployee.resources
+E:\SQL\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmstockout.resources
+E:\SQL\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmstockoutlist.resources
+E:\SQL\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreturnproduct.resources
+E:\SQL\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreturnproductlist.resources
+E:\SQL\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowdate.resources
+E:\SQL\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowsubsale.resources
+E:\SQL\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowproductsale.resources
+E:\SQL\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmproduct1.resources
+E:\SQL\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowproduct.resources
+E:\SQL\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.fromproductremind.resources
+E:\SQL\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmaddaccounttype.resources
+E:\SQL\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbackup_restore.resources
+E:\SQL\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmincome.resources
+E:\SQL\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowaccount.resources
+E:\SQL\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmstockouttype.resources
+E:\SQL\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbusiness.resources
+E:\SQL\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmconfig.resources
+E:\SQL\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmdepartment.resources
+E:\SQL\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmemployee.resources
+E:\SQL\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmunit.resources
+E:\SQL\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmtax.resources
+E:\SQL\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcustype.resources
+E:\SQL\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsubcategory.resources
+E:\SQL\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbrand.resources
+E:\SQL\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcategory.resources
+E:\SQL\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcolor.resources
+E:\SQL\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmdiscount.resources
+E:\SQL\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmdistrict.resources
+E:\SQL\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmexchange.resources
+E:\SQL\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmprovience.resources
+E:\SQL\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowunit.resources
+E:\SQL\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmstock.resources
+E:\SQL\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmuser.resources
+E:\SQL\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmvillage.resources
+E:\SQL\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.Resources.resources
+E:\SQL\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmoptionsale.resources
+E:\SQL\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmproductinfo.resources
+E:\SQL\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsale.resources
+E:\SQL\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsalelist.resources
+E:\SQL\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsalesubitem.resources
+E:\SQL\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsumarysale.resources
+E:\SQL\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmSumarysaledebit.resources
+E:\SQL\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.vbproj.GenerateResource.Cache
+\\Mac\Home\Desktop\Say_inventory\Smartinventory\Smartinventory\bin\Debug\Smartinventory.exe.config
+\\Mac\Home\Desktop\Say_inventory\Smartinventory\Smartinventory\bin\Debug\Smartinventory.exe
+\\Mac\Home\Desktop\Say_inventory\Smartinventory\Smartinventory\bin\Debug\Smartinventory.pdb
+\\Mac\Home\Desktop\Say_inventory\Smartinventory\Smartinventory\bin\Debug\Smartinventory.xml
+\\Mac\Home\Desktop\Say_inventory\Smartinventory\Smartinventory\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+\\Mac\Home\Desktop\Say_inventory\Smartinventory\Smartinventory\bin\Debug\CrystalDecisions.ReportSource.dll
+\\Mac\Home\Desktop\Say_inventory\Smartinventory\Smartinventory\bin\Debug\CrystalDecisions.Shared.dll
+\\Mac\Home\Desktop\Say_inventory\Smartinventory\Smartinventory\bin\Debug\CrystalDecisions.Windows.Forms.dll
+\\Mac\Home\Desktop\Say_inventory\Smartinventory\Smartinventory\bin\Debug\DevComponents.DotNetBar2.dll
+\\Mac\Home\Desktop\Say_inventory\Smartinventory\Smartinventory\bin\Debug\FlashControlV71.dll
+\\Mac\Home\Desktop\Say_inventory\Smartinventory\Smartinventory\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+\\Mac\Home\Desktop\Say_inventory\Smartinventory\Smartinventory\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+\\Mac\Home\Desktop\Say_inventory\Smartinventory\Smartinventory\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+\\Mac\Home\Desktop\Say_inventory\Smartinventory\Smartinventory\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+\\Mac\Home\Desktop\Say_inventory\Smartinventory\Smartinventory\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+\\Mac\Home\Desktop\Say_inventory\Smartinventory\Smartinventory\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+\\Mac\Home\Desktop\Say_inventory\Smartinventory\Smartinventory\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+\\Mac\Home\Desktop\Say_inventory\Smartinventory\Smartinventory\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+\\Mac\Home\Desktop\Say_inventory\Smartinventory\Smartinventory\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+\\Mac\Home\Desktop\Say_inventory\Smartinventory\Smartinventory\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+\\Mac\Home\Desktop\Say_inventory\Smartinventory\Smartinventory\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+\\Mac\Home\Desktop\Say_inventory\Smartinventory\Smartinventory\bin\Debug\ShockwaveFlashObjects.dll
+\\Mac\Home\Desktop\Say_inventory\Smartinventory\Smartinventory\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+\\Mac\Home\Desktop\Say_inventory\Smartinventory\Smartinventory\bin\Debug\stdole.dll
+\\Mac\Home\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.vbprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmaccount.resources
+\\Mac\Home\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcash.resources
+\\Mac\Home\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmmoneycapitaltotal.resources
+\\Mac\Home\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsaledetaillist2.resources
+\\Mac\Home\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsaledetaillist1.resources
+\\Mac\Home\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbillcashpay.resources
+\\Mac\Home\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportwithdraw.resources
+\\Mac\Home\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmupdateproduct.resources
+\\Mac\Home\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcustomerpay.resources
+\\Mac\Home\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmpaysupplier.resources
+\\Mac\Home\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcustomer.resources
+\\Mac\Home\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcustomerdebitlist.resources
+\\Mac\Home\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsalename.resources
+\\Mac\Home\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowcustomer.resources
+\\Mac\Home\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.Form1.resources
+\\Mac\Home\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.Form2.resources
+\\Mac\Home\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsumarybillall.resources
+\\Mac\Home\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsumaryproductinout_totalvalue.resources
+\\Mac\Home\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmpaorderdebitbilldetail.resources
+\\Mac\Home\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportincome_outcomedetail.resources
+\\Mac\Home\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportSumarysaledebit.resources
+\\Mac\Home\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsummarydebitcustomer.resources
+\\Mac\Home\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcreateorder.resources
+\\Mac\Home\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmorder.resources
+\\Mac\Home\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreceiveproduct.resources
+\\Mac\Home\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsetupbackup.resources
+\\Mac\Home\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsetmoney.resources
+\\Mac\Home\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportproductremindstock.resources
+\\Mac\Home\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbillsalesub.resources
+\\Mac\Home\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportstockoutdetail.resources
+\\Mac\Home\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportstockout.resources
+\\Mac\Home\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportreceivedetail.resources
+\\Mac\Home\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportreceive.resources
+\\Mac\Home\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbillstockinout.resources
+\\Mac\Home\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportorderdetail.resources
+\\Mac\Home\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportorderbill.resources
+\\Mac\Home\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsaledetail.resources
+\\Mac\Home\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbillcash.resources
+\\Mac\Home\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbilldevery.resources
+\\Mac\Home\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbillorder.resources
+\\Mac\Home\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbillquotation.resources
+\\Mac\Home\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbillreceive.resources
+\\Mac\Home\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbillreturnproduct.resources
+\\Mac\Home\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcheckstockoption.resources
+\\Mac\Home\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmpaydetail.resources
+\\Mac\Home\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportcustomer.resources
+\\Mac\Home\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.Frmreportproduct.resources
+\\Mac\Home\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsaledetail_sumary.resources
+\\Mac\Home\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsaledetaillist.resources
+\\Mac\Home\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsumaryproductinout.resources
+\\Mac\Home\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreportsumaryproductin_out.resources
+\\Mac\Home\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmlogin.resources
+\\Mac\Home\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmmain.resources
+\\Mac\Home\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmdebitcustomerlist.resources
+\\Mac\Home\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowemployee.resources
+\\Mac\Home\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmstockout.resources
+\\Mac\Home\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmstockoutlist.resources
+\\Mac\Home\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreturnproduct.resources
+\\Mac\Home\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmreturnproductlist.resources
+\\Mac\Home\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowdate.resources
+\\Mac\Home\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowsubsale.resources
+\\Mac\Home\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowproductsale.resources
+\\Mac\Home\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmproduct1.resources
+\\Mac\Home\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowproduct.resources
+\\Mac\Home\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.fromproductremind.resources
+\\Mac\Home\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmaddaccounttype.resources
+\\Mac\Home\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbackup_restore.resources
+\\Mac\Home\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmincome.resources
+\\Mac\Home\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowaccount.resources
+\\Mac\Home\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmstockouttype.resources
+\\Mac\Home\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbusiness.resources
+\\Mac\Home\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmconfig.resources
+\\Mac\Home\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmdepartment.resources
+\\Mac\Home\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmemployee.resources
+\\Mac\Home\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmunit.resources
+\\Mac\Home\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmtax.resources
+\\Mac\Home\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcustype.resources
+\\Mac\Home\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsubcategory.resources
+\\Mac\Home\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmbrand.resources
+\\Mac\Home\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcategory.resources
+\\Mac\Home\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmcolor.resources
+\\Mac\Home\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmdiscount.resources
+\\Mac\Home\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmdistrict.resources
+\\Mac\Home\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmexchange.resources
+\\Mac\Home\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmprovience.resources
+\\Mac\Home\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmshowunit.resources
+\\Mac\Home\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmstock.resources
+\\Mac\Home\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmuser.resources
+\\Mac\Home\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmvillage.resources
+\\Mac\Home\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.Resources.resources
+\\Mac\Home\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmoptionsale.resources
+\\Mac\Home\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmproductinfo.resources
+\\Mac\Home\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsale.resources
+\\Mac\Home\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsalelist.resources
+\\Mac\Home\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsalesubitem.resources
+\\Mac\Home\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmsumarysale.resources
+\\Mac\Home\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.frmSumarysaledebit.resources
+\\Mac\Home\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.vbproj.GenerateResource.Cache
+\\Mac\Home\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.exe
+\\Mac\Home\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.xml
+\\Mac\Home\Desktop\Say_inventory\Smartinventory\Smartinventory\obj\Debug\Smartinventory.pdb
