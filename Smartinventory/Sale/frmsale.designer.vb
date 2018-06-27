@@ -101,6 +101,7 @@ Partial Class frmsale
         Me.Label10 = New System.Windows.Forms.Label()
         Me.Label7 = New System.Windows.Forms.Label()
         Me.Label8 = New System.Windows.Forms.Label()
+        Me.txttax = New System.Windows.Forms.TextBox()
         ComboItem6 = New DevComponents.Editors.ComboItem()
         Me.TableLayoutPanel1.SuspendLayout()
         CType(Me.dgvsale, System.ComponentModel.ISupportInitialize).BeginInit()
@@ -644,6 +645,7 @@ Partial Class frmsale
         Me.Panel2.Controls.Add(Me.Label10)
         Me.Panel2.Controls.Add(Me.Label7)
         Me.Panel2.Controls.Add(Me.Label8)
+        Me.Panel2.Controls.Add(Me.txttax)
         Me.Panel2.Dock = System.Windows.Forms.DockStyle.Bottom
         Me.Panel2.Location = New System.Drawing.Point(3, 498)
         Me.Panel2.Name = "Panel2"
@@ -1021,6 +1023,18 @@ Partial Class frmsale
         Me.Label8.TabIndex = 7
         Me.Label8.Text = "ຈ່າຍກ່ອນ:"
         '
+        'txttax
+        '
+        Me.txttax.Anchor = CType((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+        Me.txttax.BackColor = System.Drawing.Color.Red
+        Me.txttax.ForeColor = System.Drawing.Color.Black
+        Me.txttax.Location = New System.Drawing.Point(990, 48)
+        Me.txttax.Multiline = True
+        Me.txttax.Name = "txttax"
+        Me.txttax.ReadOnly = True
+        Me.txttax.Size = New System.Drawing.Size(104, 22)
+        Me.txttax.TabIndex = 39
+        '
         'frmsale
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(9.0!, 24.0!)
@@ -1028,6 +1042,7 @@ Partial Class frmsale
         Me.BackColor = System.Drawing.Color.FromArgb(CType(CType(194, Byte), Integer), CType(CType(217, Byte), Integer), CType(CType(247, Byte), Integer))
         Me.ClientSize = New System.Drawing.Size(1206, 662)
         Me.Controls.Add(Me.TableLayoutPanel1)
+        Me.DoubleBuffered = True
         Me.EnableGlass = False
         Me.FlattenMDIBorder = False
         Me.Font = New System.Drawing.Font("Saysettha OT", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(222, Byte))
@@ -1128,4 +1143,5 @@ Partial Class frmsale
     Friend WithEvents Label19 As System.Windows.Forms.Label
     Friend WithEvents ButtonX2 As DevComponents.DotNetBar.ButtonX
     Friend WithEvents btnunapprove As DevComponents.DotNetBar.ButtonX
+    Friend WithEvents txttax As TextBox
 End Class

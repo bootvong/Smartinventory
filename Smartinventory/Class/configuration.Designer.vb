@@ -14,7 +14,7 @@ Option Explicit On
 
 
 <Global.System.Runtime.CompilerServices.CompilerGeneratedAttribute(),  _
- Global.System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.VisualStudio.Editors.SettingsDesigner.SettingsSingleFileGenerator", "11.0.0.0")>  _
+ Global.System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.VisualStudio.Editors.SettingsDesigner.SettingsSingleFileGenerator", "15.0.1.0")>  _
 Partial Friend NotInheritable Class configuration
     Inherits Global.System.Configuration.ApplicationSettingsBase
     
@@ -40,7 +40,7 @@ Partial Friend NotInheritable Class configuration
     
     <Global.System.Configuration.UserScopedSettingAttribute(),  _
      Global.System.Diagnostics.DebuggerNonUserCodeAttribute(),  _
-     Global.System.Configuration.DefaultSettingValueAttribute("192.168.43.54")>  _
+     Global.System.Configuration.DefaultSettingValueAttribute("SERVERDELL\MSSQL2008")>  _
     Public Property servername() As String
         Get
             Return CType(Me("servername"),String)
@@ -64,7 +64,7 @@ Partial Friend NotInheritable Class configuration
     
     <Global.System.Configuration.UserScopedSettingAttribute(),  _
      Global.System.Diagnostics.DebuggerNonUserCodeAttribute(),  _
-     Global.System.Configuration.DefaultSettingValueAttribute("sa")>  _
+     Global.System.Configuration.DefaultSettingValueAttribute("sa1")>  _
     Public Property username() As String
         Get
             Return CType(Me("username"),String)
@@ -76,7 +76,7 @@ Partial Friend NotInheritable Class configuration
     
     <Global.System.Configuration.UserScopedSettingAttribute(),  _
      Global.System.Diagnostics.DebuggerNonUserCodeAttribute(),  _
-     Global.System.Configuration.DefaultSettingValueAttribute("bootvong")>  _
+     Global.System.Configuration.DefaultSettingValueAttribute("bootvong1")>  _
     Public Property password() As String
         Get
             Return CType(Me("password"),String)
