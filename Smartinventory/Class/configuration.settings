@@ -6,7 +6,7 @@
       <Value Profile="(Default)">smartinventory</Value>
     </Setting>
     <Setting Name="servername" Type="System.String" Scope="User">
-      <Value Profile="(Default)">192.168.43.54</Value>
+      <Value Profile="(Default)">DESKTOP-G53NHCF</Value>
     </Setting>
     <Setting Name="printername" Type="System.String" Scope="User">
       <Value Profile="(Default)">Adobe PDF</Value>

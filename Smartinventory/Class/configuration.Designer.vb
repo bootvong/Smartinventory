@@ -14,7 +14,7 @@ Option Explicit On
 
 
 <Global.System.Runtime.CompilerServices.CompilerGeneratedAttribute(),  _
- Global.System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.VisualStudio.Editors.SettingsDesigner.SettingsSingleFileGenerator", "11.0.0.0")>  _
+ Global.System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.VisualStudio.Editors.SettingsDesigner.SettingsSingleFileGenerator", "15.6.0.0")>  _
 Partial Friend NotInheritable Class configuration
     Inherits Global.System.Configuration.ApplicationSettingsBase
     
@@ -40,7 +40,7 @@ Partial Friend NotInheritable Class configuration
     
     <Global.System.Configuration.UserScopedSettingAttribute(),  _
      Global.System.Diagnostics.DebuggerNonUserCodeAttribute(),  _
-     Global.System.Configuration.DefaultSettingValueAttribute("192.168.43.54")>  _
+     Global.System.Configuration.DefaultSettingValueAttribute("DESKTOP-G53NHCF")>  _
     Public Property servername() As String
         Get
             Return CType(Me("servername"),String)
