@@ -72,15 +72,16 @@ Partial Class frmcreateorder
         Me.Label9 = New System.Windows.Forms.Label()
         Me.Label5 = New System.Windows.Forms.Label()
         Me.Label6 = New System.Windows.Forms.Label()
+        Me.txttax = New System.Windows.Forms.TextBox()
         Me.TableLayoutPanel1.SuspendLayout()
         CType(Me.dgvlist, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.Panel1.SuspendLayout()
-        Me.GroupPanel3.SuspendLayout
+        Me.GroupPanel3.SuspendLayout()
         Me.FlowLayoutPanel1.SuspendLayout()
-        Me.GroupPanel2.SuspendLayout
-        Me.GroupPanel1.SuspendLayout
+        Me.GroupPanel2.SuspendLayout()
+        Me.GroupPanel1.SuspendLayout()
         Me.Panel2.SuspendLayout()
-        Me.SuspendLayout
+        Me.SuspendLayout()
         '
         'TableLayoutPanel1
         '
@@ -164,7 +165,7 @@ Partial Class frmcreateorder
         Me.txtordername.Location = New System.Drawing.Point(90, 39)
         Me.txtordername.Name = "txtordername"
         Me.txtordername.ReadOnly = True
-        Me.txtordername.Size = New System.Drawing.Size(211, 63)
+        Me.txtordername.Size = New System.Drawing.Size(211, 35)
         Me.txtordername.TabIndex = 23
         '
         'GroupPanel3
@@ -262,7 +263,7 @@ Partial Class frmcreateorder
         Me.dtsale.Format = System.Windows.Forms.DateTimePickerFormat.[Short]
         Me.dtsale.Location = New System.Drawing.Point(789, 39)
         Me.dtsale.Name = "dtsale"
-        Me.dtsale.Size = New System.Drawing.Size(175, 63)
+        Me.dtsale.Size = New System.Drawing.Size(175, 35)
         Me.dtsale.TabIndex = 21
         '
         'Label11
@@ -270,7 +271,7 @@ Partial Class frmcreateorder
         Me.Label11.AutoSize = True
         Me.Label11.Location = New System.Drawing.Point(707, 45)
         Me.Label11.Name = "Label11"
-        Me.Label11.Size = New System.Drawing.Size(151, 51)
+        Me.Label11.Size = New System.Drawing.Size(73, 24)
         Me.Label11.TabIndex = 20
         Me.Label11.Text = "ວັນທີຂາຍ:"
         '
@@ -284,7 +285,7 @@ Partial Class frmcreateorder
         Me.txtsupname.Location = New System.Drawing.Point(307, 40)
         Me.txtsupname.Name = "txtsupname"
         Me.txtsupname.ReadOnly = True
-        Me.txtsupname.Size = New System.Drawing.Size(278, 63)
+        Me.txtsupname.Size = New System.Drawing.Size(278, 35)
         Me.txtsupname.TabIndex = 19
         Me.txtsupname.WatermarkText = "ເລືອກຜູ້ສະໜອງສີນຄ້າ"
         '
@@ -304,7 +305,7 @@ Partial Class frmcreateorder
         Me.Label4.AutoSize = True
         Me.Label4.Location = New System.Drawing.Point(9, 80)
         Me.Label4.Name = "Label4"
-        Me.Label4.Size = New System.Drawing.Size(150, 51)
+        Me.Label4.Size = New System.Drawing.Size(75, 24)
         Me.Label4.TabIndex = 16
         Me.Label4.Text = "ໜາຍເຫດ:"
         '
@@ -312,7 +313,7 @@ Partial Class frmcreateorder
         '
         Me.txtorderNote.Location = New System.Drawing.Point(90, 77)
         Me.txtorderNote.Name = "txtorderNote"
-        Me.txtorderNote.Size = New System.Drawing.Size(874, 63)
+        Me.txtorderNote.Size = New System.Drawing.Size(874, 35)
         Me.txtorderNote.TabIndex = 15
         '
         'Label2
@@ -320,7 +321,7 @@ Partial Class frmcreateorder
         Me.Label2.AutoSize = True
         Me.Label2.Location = New System.Drawing.Point(10, 46)
         Me.Label2.Name = "Label2"
-        Me.Label2.Size = New System.Drawing.Size(155, 51)
+        Me.Label2.Size = New System.Drawing.Size(74, 24)
         Me.Label2.TabIndex = 10
         Me.Label2.Text = "ຜູ້ອອກບີນ:"
         '
@@ -329,7 +330,7 @@ Partial Class frmcreateorder
         Me.txtorderNO.Location = New System.Drawing.Point(90, 3)
         Me.txtorderNO.Name = "txtorderNO"
         Me.txtorderNO.ReadOnly = True
-        Me.txtorderNO.Size = New System.Drawing.Size(211, 63)
+        Me.txtorderNO.Size = New System.Drawing.Size(211, 35)
         Me.txtorderNO.TabIndex = 9
         '
         'GroupPanel2
@@ -369,7 +370,7 @@ Partial Class frmcreateorder
         Me.rddebit.BackColor = System.Drawing.Color.Transparent
         Me.rddebit.Location = New System.Drawing.Point(74, 1)
         Me.rddebit.Name = "rddebit"
-        Me.rddebit.Size = New System.Drawing.Size(122, 55)
+        Me.rddebit.Size = New System.Drawing.Size(63, 28)
         Me.rddebit.TabIndex = 1
         Me.rddebit.TabStop = True
         Me.rddebit.Text = "ຕິດໜີ້"
@@ -381,7 +382,7 @@ Partial Class frmcreateorder
         Me.rdcash.BackColor = System.Drawing.Color.Transparent
         Me.rdcash.Location = New System.Drawing.Point(10, 1)
         Me.rdcash.Name = "rdcash"
-        Me.rdcash.Size = New System.Drawing.Size(93, 55)
+        Me.rdcash.Size = New System.Drawing.Size(48, 28)
         Me.rdcash.TabIndex = 0
         Me.rdcash.TabStop = True
         Me.rdcash.Text = "ສົດ"
@@ -392,7 +393,7 @@ Partial Class frmcreateorder
         Me.Label1.AutoSize = True
         Me.Label1.Location = New System.Drawing.Point(10, 10)
         Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(110, 51)
+        Me.Label1.Size = New System.Drawing.Size(55, 24)
         Me.Label1.TabIndex = 7
         Me.Label1.Text = "ລະຫັດ:"
         '
@@ -434,7 +435,7 @@ Partial Class frmcreateorder
         Me.rddolla.BackColor = System.Drawing.Color.Transparent
         Me.rddolla.Location = New System.Drawing.Point(136, 1)
         Me.rddolla.Name = "rddolla"
-        Me.rddolla.Size = New System.Drawing.Size(126, 55)
+        Me.rddolla.Size = New System.Drawing.Size(65, 28)
         Me.rddolla.TabIndex = 2
         Me.rddolla.TabStop = True
         Me.rddolla.Text = "ໂດລາ"
@@ -446,7 +447,7 @@ Partial Class frmcreateorder
         Me.rdbath.BackColor = System.Drawing.Color.Transparent
         Me.rdbath.Location = New System.Drawing.Point(74, 1)
         Me.rdbath.Name = "rdbath"
-        Me.rdbath.Size = New System.Drawing.Size(109, 55)
+        Me.rdbath.Size = New System.Drawing.Size(56, 28)
         Me.rdbath.TabIndex = 1
         Me.rdbath.TabStop = True
         Me.rdbath.Text = "ບາດ"
@@ -458,7 +459,7 @@ Partial Class frmcreateorder
         Me.rdkip.BackColor = System.Drawing.Color.Transparent
         Me.rdkip.Location = New System.Drawing.Point(10, 1)
         Me.rdkip.Name = "rdkip"
-        Me.rdkip.Size = New System.Drawing.Size(94, 55)
+        Me.rdkip.Size = New System.Drawing.Size(48, 28)
         Me.rdkip.TabIndex = 0
         Me.rdkip.TabStop = True
         Me.rdkip.Text = "ກີບ"
@@ -485,6 +486,7 @@ Partial Class frmcreateorder
         Me.Panel2.Controls.Add(Me.Label9)
         Me.Panel2.Controls.Add(Me.Label5)
         Me.Panel2.Controls.Add(Me.Label6)
+        Me.Panel2.Controls.Add(Me.txttax)
         Me.Panel2.Dock = System.Windows.Forms.DockStyle.Bottom
         Me.Panel2.Location = New System.Drawing.Point(3, 537)
         Me.Panel2.Name = "Panel2"
@@ -499,7 +501,7 @@ Partial Class frmcreateorder
         Me.txt_dispersent.Location = New System.Drawing.Point(533, 81)
         Me.txt_dispersent.Name = "txt_dispersent"
         Me.txt_dispersent.ReadOnly = True
-        Me.txt_dispersent.Size = New System.Drawing.Size(276, 63)
+        Me.txt_dispersent.Size = New System.Drawing.Size(276, 35)
         Me.txt_dispersent.TabIndex = 38
         '
         'Label17
@@ -510,7 +512,7 @@ Partial Class frmcreateorder
         Me.Label17.ForeColor = System.Drawing.Color.Blue
         Me.Label17.Location = New System.Drawing.Point(1074, 6)
         Me.Label17.Name = "Label17"
-        Me.Label17.Size = New System.Drawing.Size(142, 51)
+        Me.Label17.Size = New System.Drawing.Size(72, 24)
         Me.Label17.TabIndex = 36
         Me.Label17.Text = "ລາຍການ"
         '
@@ -522,7 +524,7 @@ Partial Class frmcreateorder
         Me.Label16.ForeColor = System.Drawing.Color.Blue
         Me.Label16.Location = New System.Drawing.Point(939, 6)
         Me.Label16.Name = "Label16"
-        Me.Label16.Size = New System.Drawing.Size(208, 51)
+        Me.Label16.Size = New System.Drawing.Size(107, 24)
         Me.Label16.TabIndex = 35
         Me.Label16.Text = "ລວມທັງໝົດມີ:"
         '
@@ -595,7 +597,7 @@ Partial Class frmcreateorder
         Me.txttotallast.Location = New System.Drawing.Point(889, 70)
         Me.txttotallast.Name = "txttotallast"
         Me.txttotallast.ReadOnly = True
-        Me.txttotallast.Size = New System.Drawing.Size(308, 81)
+        Me.txttotallast.Size = New System.Drawing.Size(308, 44)
         Me.txttotallast.TabIndex = 16
         '
         'btnshowtax
@@ -616,7 +618,7 @@ Partial Class frmcreateorder
         Me.Label10.AutoSize = True
         Me.Label10.Location = New System.Drawing.Point(821, 36)
         Me.Label10.Name = "Label10"
-        Me.Label10.Size = New System.Drawing.Size(130, 51)
+        Me.Label10.Size = New System.Drawing.Size(62, 24)
         Me.Label10.TabIndex = 11
         Me.Label10.Text = "ອາກອນ:"
         '
@@ -627,10 +629,10 @@ Partial Class frmcreateorder
         Me.cbtax.DrawMode = System.Windows.Forms.DrawMode.OwnerDrawFixed
         Me.cbtax.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList
         Me.cbtax.FormattingEnabled = True
-        Me.cbtax.ItemHeight = 57
+        Me.cbtax.ItemHeight = 29
         Me.cbtax.Location = New System.Drawing.Point(889, 34)
         Me.cbtax.Name = "cbtax"
-        Me.cbtax.Size = New System.Drawing.Size(252, 63)
+        Me.cbtax.Size = New System.Drawing.Size(252, 35)
         Me.cbtax.TabIndex = 10
         '
         'txtdiscount
@@ -639,7 +641,7 @@ Partial Class frmcreateorder
         Me.txtdiscount.BackColor = System.Drawing.Color.FromArgb(CType(CType(255, Byte), Integer), CType(CType(224, Byte), Integer), CType(CType(192, Byte), Integer))
         Me.txtdiscount.Location = New System.Drawing.Point(533, 45)
         Me.txtdiscount.Name = "txtdiscount"
-        Me.txtdiscount.Size = New System.Drawing.Size(276, 63)
+        Me.txtdiscount.Size = New System.Drawing.Size(276, 35)
         Me.txtdiscount.TabIndex = 8
         '
         'txttotal
@@ -649,7 +651,7 @@ Partial Class frmcreateorder
         Me.txttotal.Location = New System.Drawing.Point(533, 8)
         Me.txttotal.Name = "txttotal"
         Me.txttotal.ReadOnly = True
-        Me.txttotal.Size = New System.Drawing.Size(276, 63)
+        Me.txttotal.Size = New System.Drawing.Size(276, 35)
         Me.txttotal.TabIndex = 0
         '
         'txtcount
@@ -660,7 +662,7 @@ Partial Class frmcreateorder
         Me.txtcount.ForeColor = System.Drawing.Color.Red
         Me.txtcount.Location = New System.Drawing.Point(1044, 6)
         Me.txtcount.Name = "txtcount"
-        Me.txtcount.Size = New System.Drawing.Size(41, 51)
+        Me.txtcount.Size = New System.Drawing.Size(20, 24)
         Me.txtcount.TabIndex = 37
         Me.txtcount.Text = "0"
         '
@@ -670,7 +672,7 @@ Partial Class frmcreateorder
         Me.Label7.AutoSize = True
         Me.Label7.Location = New System.Drawing.Point(813, 76)
         Me.Label7.Name = "Label7"
-        Me.Label7.Size = New System.Drawing.Size(153, 51)
+        Me.Label7.Size = New System.Drawing.Size(75, 24)
         Me.Label7.TabIndex = 17
         Me.Label7.Text = "ລວມສຸດທິ:"
         '
@@ -680,7 +682,7 @@ Partial Class frmcreateorder
         Me.Label9.AutoSize = True
         Me.Label9.Location = New System.Drawing.Point(465, 46)
         Me.Label9.Name = "Label9"
-        Me.Label9.Size = New System.Drawing.Size(131, 51)
+        Me.Label9.Size = New System.Drawing.Size(64, 24)
         Me.Label9.TabIndex = 9
         Me.Label9.Text = "ສ່ວນລຸດ:"
         '
@@ -690,7 +692,7 @@ Partial Class frmcreateorder
         Me.Label5.AutoSize = True
         Me.Label5.Location = New System.Drawing.Point(450, 11)
         Me.Label5.Name = "Label5"
-        Me.Label5.Size = New System.Drawing.Size(164, 51)
+        Me.Label5.Size = New System.Drawing.Size(80, 24)
         Me.Label5.TabIndex = 3
         Me.Label5.Text = "ລວມລາຄາ:"
         '
@@ -700,13 +702,23 @@ Partial Class frmcreateorder
         Me.Label6.AutoSize = True
         Me.Label6.Location = New System.Drawing.Point(414, 88)
         Me.Label6.Name = "Label6"
-        Me.Label6.Size = New System.Drawing.Size(233, 51)
+        Me.Label6.Size = New System.Drawing.Size(116, 24)
         Me.Label6.TabIndex = 39
         Me.Label6.Text = "ລວມຫັກສ່ວນລຸດ:"
         '
+        'txttax
+        '
+        Me.txttax.Anchor = CType((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+        Me.txttax.BackColor = System.Drawing.Color.FromArgb(CType(CType(255, Byte), Integer), CType(CType(224, Byte), Integer), CType(CType(192, Byte), Integer))
+        Me.txttax.Location = New System.Drawing.Point(927, 37)
+        Me.txttax.Multiline = True
+        Me.txttax.Name = "txttax"
+        Me.txttax.Size = New System.Drawing.Size(137, 29)
+        Me.txttax.TabIndex = 40
+        '
         'frmcreateorder
         '
-        Me.AutoScaleDimensions = New System.Drawing.SizeF(19.0!, 51.0!)
+        Me.AutoScaleDimensions = New System.Drawing.SizeF(9.0!, 24.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.Color.FromArgb(CType(CType(194, Byte), Integer), CType(CType(217, Byte), Integer), CType(CType(247, Byte), Integer))
         Me.ClientSize = New System.Drawing.Size(1206, 662)
@@ -729,9 +741,9 @@ Partial Class frmcreateorder
         Me.GroupPanel3.ResumeLayout(False)
         Me.FlowLayoutPanel1.ResumeLayout(False)
         Me.GroupPanel2.ResumeLayout(False)
-        Me.GroupPanel2.PerformLayout
+        Me.GroupPanel2.PerformLayout()
         Me.GroupPanel1.ResumeLayout(False)
-        Me.GroupPanel1.PerformLayout
+        Me.GroupPanel1.PerformLayout()
         Me.Panel2.ResumeLayout(False)
         Me.Panel2.PerformLayout()
         Me.ResumeLayout(False)
@@ -784,4 +796,5 @@ Partial Class frmcreateorder
     Friend WithEvents Label16 As System.Windows.Forms.Label
     Friend WithEvents txt_dispersent As System.Windows.Forms.TextBox
     Friend WithEvents Label6 As System.Windows.Forms.Label
+    Friend WithEvents txttax As TextBox
 End Class

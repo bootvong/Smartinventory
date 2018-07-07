@@ -31,6 +31,7 @@ Public Class frmbillorder
             cry.SetDatabaseLogon(cn.user, cn.password)
             cry.Database.Tables("tbbusiness").SetDataSource(dttt)
             cry.SetDataSource(dt)
+            cry.SetParameterValue("Sumvat", frmcreateorder.txttax.Text)
             CrystalReportViewer1.ReportSource = cry
             'txtorderNO.Clear()
         Catch ex As Exception

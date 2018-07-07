@@ -77,6 +77,7 @@ Partial Class frmreceiveproduct
         Me.txtdiscount = New System.Windows.Forms.TextBox()
         Me.Label5 = New System.Windows.Forms.Label()
         Me.txttotal = New System.Windows.Forms.TextBox()
+        Me.txttax = New System.Windows.Forms.TextBox()
         Me.TableLayoutPanel1.SuspendLayout()
         CType(Me.dgvreceive, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.Panel1.SuspendLayout()
@@ -589,6 +590,7 @@ Partial Class frmreceiveproduct
         '
         'Panel2
         '
+        Me.Panel2.Controls.Add(Me.txttax)
         Me.Panel2.Controls.Add(Me.btnfree)
         Me.Panel2.Controls.Add(Me.btncancel)
         Me.Panel2.Controls.Add(Me.btnclear)
@@ -802,6 +804,17 @@ Partial Class frmreceiveproduct
         Me.txttotal.TabIndex = 0
         Me.txttotal.Text = "0"
         '
+        'txttax
+        '
+        Me.txttax.Anchor = CType((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+        Me.txttax.BackColor = System.Drawing.Color.FromArgb(CType(CType(255, Byte), Integer), CType(CType(255, Byte), Integer), CType(CType(128, Byte), Integer))
+        Me.txttax.Location = New System.Drawing.Point(782, 5)
+        Me.txttax.Name = "txttax"
+        Me.txttax.ReadOnly = True
+        Me.txttax.Size = New System.Drawing.Size(114, 35)
+        Me.txttax.TabIndex = 30
+        Me.txttax.Text = "0"
+        '
         'frmreceiveproduct
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(9.0!, 24.0!)
@@ -809,6 +822,7 @@ Partial Class frmreceiveproduct
         Me.BackColor = System.Drawing.Color.FromArgb(CType(CType(194, Byte), Integer), CType(CType(217, Byte), Integer), CType(CType(247, Byte), Integer))
         Me.ClientSize = New System.Drawing.Size(1206, 662)
         Me.Controls.Add(Me.TableLayoutPanel1)
+        Me.DoubleBuffered = True
         Me.EnableGlass = False
         Me.FlattenMDIBorder = False
         Me.Font = New System.Drawing.Font("Saysettha OT", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(222, Byte))
@@ -887,4 +901,5 @@ Partial Class frmreceiveproduct
     Friend WithEvents btnfree As DevComponents.DotNetBar.ButtonX
     Friend WithEvents ButtonX1 As DevComponents.DotNetBar.ButtonX
     Friend WithEvents txttotallast As System.Windows.Forms.TextBox
+    Friend WithEvents txttax As TextBox
 End Class

@@ -42,6 +42,7 @@ Public Class frmbillcash
             cry.SetParameterValue("saledate", saledate)
             cry.SetParameterValue("sumtotal", sumtotal)
             cry.SetParameterValue("note", frmsale.txtnote.Text)
+            cry.SetParameterValue("Sumvat", frmsale.txttax.Text)
             cry.SetParameterValue("nextpaydate", frmsale.nextday.Value)
             CrystalReportViewer1.ReportSource = cry
 

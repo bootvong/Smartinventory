@@ -137,6 +137,12 @@
     <Compile Include="Formreport\frmreportwithdraw.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="inventory\frmrecivelist.designer.vb">
+      <DependentUpon>frmrecivelist.vb</DependentUpon>
+    </Compile>
+    <Compile Include="inventory\frmrecivelist.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="inventory\frmupdateproduct.Designer.vb">
       <DependentUpon>frmupdateproduct.vb</DependentUpon>
     </Compile>
@@ -991,6 +997,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Formreport\frmreportwithdraw.resx">
       <DependentUpon>frmreportwithdraw.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="inventory\frmrecivelist.resx">
+      <DependentUpon>frmrecivelist.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="inventory\frmupdateproduct.resx">
       <DependentUpon>frmupdateproduct.vb</DependentUpon>

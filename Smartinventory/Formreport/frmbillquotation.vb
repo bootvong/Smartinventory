@@ -27,6 +27,7 @@ Public Class frmbillquotation
             cry.SetDatabaseLogon(cn.user, cn.password)
             cry.Database.Tables("tbbusiness").SetDataSource(dttt)
             cry.SetDataSource(dt)
+            cry.SetParameterValue("Sumvat", frmsale.txttax.Text)
             cry.SetParameterValue("note", frmsale.txtnote.Text)
             CrystalReportViewer1.ReportSource = cry
         Catch ex As Exception

@@ -6,16 +6,20 @@
       <Value Profile="(Default)">smartinventory</Value>
     </Setting>
     <Setting Name="servername" Type="System.String" Scope="User">
+<<<<<<< HEAD
       <Value Profile="(Default)">DESKTOP-G53NHCF</Value>
+=======
+      <Value Profile="(Default)">SERVERDELL\MSSQL2008</Value>
+>>>>>>> c861be10b6ea248ca7389f7e10b1064f195e7112
     </Setting>
     <Setting Name="printername" Type="System.String" Scope="User">
       <Value Profile="(Default)">Adobe PDF</Value>
     </Setting>
     <Setting Name="username" Type="System.String" Scope="User">
-      <Value Profile="(Default)">sa</Value>
+      <Value Profile="(Default)">sa1</Value>
     </Setting>
     <Setting Name="password" Type="System.String" Scope="User">
-      <Value Profile="(Default)">bootvong</Value>
+      <Value Profile="(Default)">bootvong1</Value>
     </Setting>
   </Settings>
 </SettingsFile>

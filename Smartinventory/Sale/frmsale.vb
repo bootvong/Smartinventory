@@ -95,8 +95,6 @@
     End Sub
     Private Sub frmsale_Load(sender As Object, e As EventArgs) Handles MyBase.Load
         Try
-
-
             currentdate = System.DateTime.Now.ToString("MM/dd/yyyy")
             Dim frmsalelist1 As frmsalelist = DirectCast(Application.OpenForms("frmsalelist"), frmsalelist)
             Dim frmmain1 As frmmain = DirectCast(Application.OpenForms("frmmain"), frmmain)
@@ -150,12 +148,15 @@
                 End If
 
             End If
-            'MessageBox.Show("test")
+            ''MessageBox.Show("test")
             dgvsale.Columns.Clear()
             dgvsale.Rows.Clear()
             salename.combosalename(cbsalename)
             vath.combotax(cbtax)
+            'MessageBox.Show(frmsalelist1.saledetail)
+            'MessageBox.Show(frmsalelist1.dgvsalelist.CurrentRow.Cells(0).Value)
             If frmsalelist1.saledetail = True Then
+                'MessageBox.Show(frmsalelist1.dgvsalelist.CurrentRow.Cells(0).Value)
                 saletable()
                 dgvsale.Rows.Clear()
                 dt.Clear()
@@ -729,8 +730,8 @@
             Dim row As DataRow = rows.Row
             Dim tem_totalsale = Val(CInt(txt_dispersent.Text))
             tax = row(1).ToString
+            txttax.Text = ((tax * tem_totalsale) / 100).ToString("N0")
             Dim addtax As Double = tem_totalsale + ((tax * tem_totalsale) / 100)
-            'txttotal.Text = addtax.ToString("N0")
             txttotallast.Text = addtax.ToString("N0")
         Catch ex As Exception
 

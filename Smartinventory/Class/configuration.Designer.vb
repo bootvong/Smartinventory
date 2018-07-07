@@ -14,7 +14,11 @@ Option Explicit On
 
 
 <Global.System.Runtime.CompilerServices.CompilerGeneratedAttribute(),  _
+<<<<<<< HEAD
  Global.System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.VisualStudio.Editors.SettingsDesigner.SettingsSingleFileGenerator", "15.6.0.0")>  _
+=======
+ Global.System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.VisualStudio.Editors.SettingsDesigner.SettingsSingleFileGenerator", "15.0.1.0")>  _
+>>>>>>> c861be10b6ea248ca7389f7e10b1064f195e7112
 Partial Friend NotInheritable Class configuration
     Inherits Global.System.Configuration.ApplicationSettingsBase
     
@@ -40,7 +44,11 @@ Partial Friend NotInheritable Class configuration
     
     <Global.System.Configuration.UserScopedSettingAttribute(),  _
      Global.System.Diagnostics.DebuggerNonUserCodeAttribute(),  _
+<<<<<<< HEAD
      Global.System.Configuration.DefaultSettingValueAttribute("DESKTOP-G53NHCF")>  _
+=======
+     Global.System.Configuration.DefaultSettingValueAttribute("SERVERDELL\MSSQL2008")>  _
+>>>>>>> c861be10b6ea248ca7389f7e10b1064f195e7112
     Public Property servername() As String
         Get
             Return CType(Me("servername"),String)
@@ -64,7 +72,7 @@ Partial Friend NotInheritable Class configuration
     
     <Global.System.Configuration.UserScopedSettingAttribute(),  _
      Global.System.Diagnostics.DebuggerNonUserCodeAttribute(),  _
-     Global.System.Configuration.DefaultSettingValueAttribute("sa")>  _
+     Global.System.Configuration.DefaultSettingValueAttribute("sa1")>  _
     Public Property username() As String
         Get
             Return CType(Me("username"),String)
@@ -76,7 +84,7 @@ Partial Friend NotInheritable Class configuration
     
     <Global.System.Configuration.UserScopedSettingAttribute(),  _
      Global.System.Diagnostics.DebuggerNonUserCodeAttribute(),  _
-     Global.System.Configuration.DefaultSettingValueAttribute("bootvong")>  _
+     Global.System.Configuration.DefaultSettingValueAttribute("bootvong1")>  _
     Public Property password() As String
         Get
             Return CType(Me("password"),String)

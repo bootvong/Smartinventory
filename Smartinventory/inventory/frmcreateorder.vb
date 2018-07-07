@@ -409,6 +409,7 @@
             Dim row As DataRow = rows.Row
             Dim tem_totalsale = Val(CInt(txt_dispersent.Text))
             tax = row(1).ToString
+            txttax.Text = ((tax * tem_totalsale) / 100).ToString
             Dim addtax As Double = tem_totalsale + ((tax * tem_totalsale) / 100)
             'txttotal.Text = addtax.ToString("N0")
             txttotallast.Text = addtax.ToString("N0")

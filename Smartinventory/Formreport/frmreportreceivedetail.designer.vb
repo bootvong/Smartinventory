@@ -83,18 +83,20 @@ Partial Class frmreportreceivedetail
         Me.btnProduct.AccessibleRole = System.Windows.Forms.AccessibleRole.PushButton
         Me.btnProduct.ColorTable = DevComponents.DotNetBar.eButtonColor.OrangeWithBackground
         Me.btnProduct.ImageFixedSize = New System.Drawing.Size(24, 24)
-        Me.btnProduct.Location = New System.Drawing.Point(792, 36)
+        Me.btnProduct.Location = New System.Drawing.Point(792, 9)
         Me.btnProduct.Name = "btnProduct"
-        Me.btnProduct.Size = New System.Drawing.Size(54, 35)
+        Me.btnProduct.Size = New System.Drawing.Size(54, 62)
         Me.btnProduct.TabIndex = 264
         Me.btnProduct.Text = "..."
         '
         'txtproduct
         '
         Me.txtproduct.Font = New System.Drawing.Font("Saysettha OT", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.txtproduct.Location = New System.Drawing.Point(552, 36)
+        Me.txtproduct.Location = New System.Drawing.Point(541, 5)
+        Me.txtproduct.Multiline = True
         Me.txtproduct.Name = "txtproduct"
-        Me.txtproduct.Size = New System.Drawing.Size(234, 35)
+        Me.txtproduct.ScrollBars = System.Windows.Forms.ScrollBars.Horizontal
+        Me.txtproduct.Size = New System.Drawing.Size(245, 68)
         Me.txtproduct.TabIndex = 262
         '
         'date2
@@ -122,7 +124,7 @@ Partial Class frmreportreceivedetail
         Me.btncry.Font = New System.Drawing.Font("Saysettha OT", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.btncry.ForeColor = System.Drawing.Color.Blue
         Me.btncry.Image = Global.Smartinventory.My.Resources.Resources.Report
-        Me.btncry.Location = New System.Drawing.Point(852, 5)
+        Me.btncry.Location = New System.Drawing.Point(852, 6)
         Me.btncry.Name = "btncry"
         Me.btncry.Size = New System.Drawing.Size(106, 67)
         Me.btncry.TabIndex = 207
@@ -205,7 +207,7 @@ Partial Class frmreportreceivedetail
         Me.Label8.AutoSize = True
         Me.Label8.Font = New System.Drawing.Font("Saysettha OT", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label8.ForeColor = System.Drawing.Color.Blue
-        Me.Label8.Location = New System.Drawing.Point(493, 42)
+        Me.Label8.Location = New System.Drawing.Point(480, 24)
         Me.Label8.Name = "Label8"
         Me.Label8.Size = New System.Drawing.Size(62, 24)
         Me.Label8.TabIndex = 263
@@ -230,6 +232,7 @@ Partial Class frmreportreceivedetail
         Me.BackColor = System.Drawing.Color.FromArgb(CType(CType(194, Byte), Integer), CType(CType(217, Byte), Integer), CType(CType(247, Byte), Integer))
         Me.ClientSize = New System.Drawing.Size(1132, 729)
         Me.Controls.Add(Me.TableLayoutPanel1)
+        Me.DoubleBuffered = True
         Me.EnableGlass = False
         Me.FlattenMDIBorder = False
         Me.Font = New System.Drawing.Font("Saysettha OT", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
